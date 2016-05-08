@@ -1,0 +1,2190 @@
+,Population,Magnitude,Depth,Distance_from_the_epicenter,Secondary effects,Architechture,destructiveness,City
+0,Populated ,70,427,3681,No,Good ,High,Buford
+1,Unpopulated,31,515,5233,No,Bad,Low,Buford
+2,Populated ,58,565,2099,No,Good,Low,Buford
+3,Populated ,68,340,8626,No,Good,Low,Buford
+4,Unpopulated,67,210,6387,No,Good,Low,Buford
+5,Populated ,35,284,2126,No,Good,Low,Buford
+6,Unpopulated,75,98,211,No,Bad,High,Buford
+7,Populated ,64,237,9295,No,Good,Low,Buford
+8,Unpopulated,37,218,9194,No,Bad,Low,Buford
+9,Populated,70,650,6063,No,Good,High,Philadelphia
+10,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+11,Populated,80,171,7722,No,Bad,High,Philadelphia
+12,Populated ,36,324,6365,yes,Good ,Low,Buford
+13,Unpopulated,80,387,2526,No,Bad,High,Buford
+14,Populated ,62,662,7849,No,Good,Low,Buford
+15,Populated ,39,589,5360,No,Good,Low,Buford
+16,Unpopulated,53,567,8058,No,Good,Low,Buford
+17,Populated ,32,574,37,No,Good,Low,Buford
+18,Unpopulated,42,84,3774,No,Bad,Low,Buford
+19,Populated ,31,698,5842,No,Good,Low,Buford
+20,Unpopulated,57,689,8692,No,Bad,Low,Buford
+21,Populated,49,608,4827,No,Good,Low,Philadelphia
+22,Unpopulated,38,512,7858,No,Bad,Low,Buford
+23,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+24,Populated ,30,499,5267,No,Good ,Low,Buford
+25,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+26,Populated ,57,699,7789,No,Good,Low,Buford
+27,Populated ,44,345,9475,No,Good,Low,Buford
+28,Unpopulated,33,637,3895,No,Good,Low,Buford
+29,Populated ,35,332,6512,No,Good,Low,Buford
+30,Unpopulated,33,60,7218,No,Bad,Low,Buford
+31,Populated ,50,107,9856,No,Good,Low,Buford
+32,Unpopulated,73,359,1346,No,Bad,High,Buford
+33,Populated,63,516,751,No,Good,Low,Philadelphia
+34,Unpopulated,36,443,7647,No,Bad,Low,Buford
+35,Populated,67,594,9833,No,Bad,Low,Philadelphia
+36,Populated ,45,620,7898,Yes,Good ,Low,Buford
+37,Unpopulated,33,10,5897,No,Bad,Low,Buford
+38,Populated ,52,38,5437,yes,Good,Low,Buford
+39,Populated ,43,310,1038,No,Good,Low,Buford
+40,Unpopulated,42,526,3572,No,Good,Low,Buford
+41,Populated ,79,195,3859,No,Good,High,Buford
+42,Unpopulated,54,34,8049,No,Bad,Low,Buford
+43,Populated ,69,90,8772,No,Good,High,Buford
+44,Unpopulated,39,60,3385,No,Bad,Low,Buford
+45,Populated,41,552,9992,No,Good,Low,Philadelphia
+46,Unpopulated,58,567,1891,No,Bad,Low,Buford
+47,Populated,80,87,508,No,Bad,High,Philadelphia
+48,Populated ,69,580,280,No,Good ,High,Buford
+49,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+50,Populated ,51,223,559,No,Good,Low,Buford
+51,Populated ,64,415,9551,yes,Good,Low,Buford
+52,Unpopulated,30,148,7248,No,Good,Low,Buford
+53,Populated ,36,429,5972,No,Good,Low,Buford
+54,Unpopulated,56,64,9202,No,Bad,Low,Buford
+55,Populated ,55,30,3894,No,Good,Low,Buford
+56,Unpopulated,60,432,2793,No,Bad,Low,Buford
+57,Populated,77,205,4113,No,Good,High,Philadelphia
+58,Unpopulated,41,486,7861,No,Bad,Low,Buford
+59,Populated,66,117,4364,No,Bad,Low,Philadelphia
+60,Populated ,58,631,5966,No,Good ,Low,Buford
+61,Unpopulated,60,607,5097,No,Bad,Low,Buford
+62,Populated ,54,456,5161,Yes,Good,Low,Buford
+63,Populated ,49,420,6938,No,Good,Low,Buford
+64,Unpopulated,38,188,8417,yes,Good,Low,Buford
+65,Populated ,60,679,9374,No,Good,Low,Buford
+66,Unpopulated,38,159,737,No,Bad,Low,Buford
+67,Populated ,77,311,4343,No,Good,High,Buford
+68,Unpopulated,63,43,8312,No,Bad,Low,Buford
+69,Populated,55,661,7247,No,Good,Low,Philadelphia
+70,Unpopulated,65,348,1437,No,Bad,Low,Buford
+71,Populated,64,414,4090,No,Bad,Low,Philadelphia
+72,Populated ,33,334,6227,No,Good ,Low,Buford
+73,Unpopulated,75,259,3924,No,Bad,High,Buford
+74,Populated ,51,426,7409,No,Good,Low,Buford
+75,Populated ,34,316,3769,Yes,Good,Low,Buford
+76,Unpopulated,31,175,1688,No,Good,Low,Buford
+77,Populated ,53,184,1993,yes,Good,Low,Buford
+78,Unpopulated,51,641,1414,No,Bad,Low,Buford
+79,Populated ,40,11,4643,No,Good,Low,Buford
+80,Unpopulated,78,600,2409,No,Bad,High,Buford
+81,Populated,62,51,8729,No,Good,Low,Philadelphia
+82,Unpopulated,30,187,8174,No,Bad,Low,Buford
+83,Populated,75,342,3712,No,Bad,High,Philadelphia
+84,Populated ,80,43,693,No,Good ,High,Buford
+85,Unpopulated,30,567,6485,No,Bad,Low,Buford
+86,Populated ,33,400,9471,No,Good,Low,Buford
+87,Populated ,66,425,258,No,Good,Low,Buford
+88,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+89,Populated ,54,355,6290,No,Good,Low,Buford
+90,Unpopulated,36,44,291,yes,Bad,Low,Buford
+91,Populated ,37,484,6271,No,Good,Low,Buford
+92,Unpopulated,65,286,8617,No,Bad,Low,Buford
+93,Populated,65,519,8192,No,Good,Low,Philadelphia
+94,Unpopulated,35,664,38,No,Bad,Low,Buford
+95,Populated,67,488,10,No,Bad,Low,Philadelphia
+96,Populated ,57,639,4535,No,Good ,Low,Buford
+97,Unpopulated,56,521,1780,No,Bad,Low,Buford
+98,Populated ,30,532,1284,No,Good,Low,Buford
+99,Populated ,56,678,5472,No,Good,Low,Buford
+100,Unpopulated,80,680,8662,No,Good,High,Buford
+101,Populated ,75,115,3812,Yes,Good,High,Buford
+102,Unpopulated,76,265,3652,No,Bad,High,Buford
+103,Populated ,53,153,4951,yes,Good,Low,Buford
+104,Unpopulated,69,364,6825,No,Bad,High,Buford
+105,Populated,41,494,2745,No,Good,Low,Philadelphia
+106,Unpopulated,53,354,7427,No,Bad,Low,Buford
+107,Populated,79,177,4568,No,Bad,High,Philadelphia
+108,Populated ,57,452,3814,No,Good ,Low,Buford
+109,Unpopulated,69,14,7930,No,Bad,High,Buford
+110,Populated ,31,513,9296,No,Good,Low,Buford
+111,Populated ,47,637,8700,No,Good,Low,Buford
+112,Unpopulated,43,52,5758,No,Good,Low,Buford
+113,Populated ,72,686,6182,No,Good,High,Buford
+114,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+115,Populated ,41,62,9997,No,Good,Low,Buford
+116,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+117,Populated,48,198,6681,No,Good,Low,Philadelphia
+118,Unpopulated,37,244,7702,No,Bad,Low,Buford
+119,Populated,36,271,1027,No,Bad,Low,Philadelphia
+120,Populated ,49,225,3615,No,Good ,Low,Buford
+121,Unpopulated,47,476,8085,No,Bad,Low,Buford
+122,Populated ,38,241,9918,No,Good,Low,Buford
+123,Populated ,75,315,2719,No,Good,High,Buford
+124,Unpopulated,60,255,8848,No,Good,Low,Buford
+125,Populated ,63,596,1703,No,Good,Low,Buford
+126,Unpopulated,71,254,9947,No,Bad,High,Buford
+127,Populated ,64,174,4919,Yes,Good,Low,Buford
+128,Unpopulated,73,547,6754,No,Bad,High,Buford
+129,Populated,46,524,3896,yes,Good,Low,Philadelphia
+130,Unpopulated,63,164,631,No,Bad,Low,Buford
+131,Populated,43,175,3645,No,Bad,Low,Philadelphia
+132,Populated ,51,149,5179,No,Good ,Low,Buford
+133,Unpopulated,63,227,2516,No,Bad,Low,Buford
+134,Populated ,69,63,6807,No,Good,High,Buford
+135,Populated ,46,675,8178,No,Good,Low,Buford
+136,Unpopulated,70,194,2932,No,Good,High,Buford
+137,Populated ,62,520,8144,No,Good,Low,Buford
+138,Unpopulated,68,494,2588,No,Bad,Low,Buford
+139,Populated ,42,134,739,No,Good,Low,Buford
+140,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+141,Populated,80,674,8501,No,Good,High,Philadelphia
+142,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+143,Populated,33,698,4598,No,Bad,Low,Philadelphia
+144,Populated ,80,152,8178,No,Good ,High,Buford
+145,Unpopulated,32,145,8296,No,Bad,Low,Buford
+146,Populated ,31,465,5759,No,Good,Low,Buford
+147,Populated ,68,16,1085,No,Good,Low,Buford
+148,Unpopulated,75,543,4713,No,Good,High,Buford
+149,Populated ,44,528,5697,No,Good,Low,Buford
+150,Unpopulated,73,608,1601,No,Bad,High,Buford
+151,Populated ,42,269,545,No,Good,Low,Buford
+152,Unpopulated,50,697,2428,No,Bad,Low,Buford
+153,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+154,Unpopulated,36,450,779,No,Bad,Low,Buford
+155,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+156,Populated ,80,691,4146,No,Good ,High,Buford
+157,Unpopulated,38,352,5413,No,Bad,Low,Buford
+158,Populated ,76,306,7996,No,Good,High,Buford
+159,Populated ,33,636,6516,No,Good,Low,Buford
+160,Unpopulated,31,552,2662,No,Good,Low,Buford
+161,Populated ,54,611,4707,No,Good,Low,Buford
+162,Unpopulated,43,224,8138,No,Bad,Low,Buford
+163,Populated ,36,389,4622,No,Good,Low,Buford
+164,Unpopulated,64,671,9158,No,Bad,Low,Buford
+165,Populated,34,36,1859,No,Good,Low,Philadelphia
+166,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+167,Populated,55,485,667,No,Bad,Low,Philadelphia
+168,Populated ,77,627,5985,yes,Good ,High,Buford
+169,Unpopulated,41,579,9072,No,Bad,Low,Buford
+170,Populated ,74,506,1158,No,Good,High,Buford
+171,Populated ,48,557,828,No,Good,Low,Buford
+172,Unpopulated,69,185,5532,No,Good,High,Buford
+173,Populated ,49,333,6343,No,Good,Low,Buford
+174,Unpopulated,34,147,9613,No,Bad,Low,Buford
+175,Populated ,42,680,2945,No,Good,Low,Buford
+176,Unpopulated,71,72,4847,No,Bad,High,Buford
+177,Populated,36,71,1037,No,Good,Low,Philadelphia
+178,Unpopulated,54,338,900,No,Bad,Low,Buford
+179,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+180,Populated ,46,358,340,No,Good ,Low,Buford
+181,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+182,Populated ,65,236,8885,No,Good,Low,Buford
+183,Populated ,68,263,8442,No,Good,Low,Buford
+184,Unpopulated,57,61,2372,No,Good,Low,Buford
+185,Populated ,57,674,3302,No,Good,Low,Buford
+186,Unpopulated,49,559,8583,No,Bad,Low,Buford
+187,Populated ,64,260,7887,No,Good,Low,Buford
+188,Unpopulated,44,315,8349,No,Bad,Low,Buford
+189,Populated,78,267,9813,No,Good,High,Philadelphia
+190,Unpopulated,58,57,1342,No,Bad,Low,Buford
+191,Populated,79,520,6497,No,Bad,High,Philadelphia
+192,Populated ,73,577,9347,Yes,Good ,High,Buford
+193,Unpopulated,33,484,7781,No,Bad,Low,Buford
+194,Populated ,40,174,7715,yes,Good,Low,Buford
+195,Populated ,61,8,6409,No,Good,Low,Buford
+196,Unpopulated,41,600,5072,No,Good,Low,Buford
+197,Populated ,53,60,3393,No,Good,Low,Buford
+198,Unpopulated,44,548,6087,No,Bad,Low,Buford
+199,Populated ,70,427,3681,No,Good ,High,Buford
+200,Unpopulated,31,515,5233,No,Bad,Low,Buford
+201,Populated ,58,565,2099,No,Good,Low,Buford
+202,Populated ,68,340,8626,No,Good,Low,Buford
+203,Unpopulated,67,210,6387,No,Good,Low,Buford
+204,Populated ,35,284,2126,No,Good,Low,Buford
+205,Unpopulated,75,98,211,No,Bad,High,Buford
+206,Populated ,64,237,9295,No,Good,Low,Buford
+207,Unpopulated,37,218,9194,No,Bad,Low,Buford
+208,Populated,70,650,6063,No,Good,High,Philadelphia
+209,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+210,Populated,80,171,7722,No,Bad,High,Philadelphia
+211,Populated ,36,324,6365,yes,Good ,Low,Buford
+212,Unpopulated,80,387,2526,No,Bad,High,Buford
+213,Populated ,62,662,7849,No,Good,Low,Buford
+214,Populated ,39,589,5360,No,Good,Low,Buford
+215,Unpopulated,53,567,8058,No,Good,Low,Buford
+216,Populated ,32,574,37,No,Good,Low,Buford
+217,Unpopulated,42,84,3774,No,Bad,Low,Buford
+218,Populated ,31,698,5842,No,Good,Low,Buford
+219,Unpopulated,57,689,8692,No,Bad,Low,Buford
+220,Populated,49,608,4827,No,Good,Low,Philadelphia
+221,Unpopulated,38,512,7858,No,Bad,Low,Buford
+222,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+223,Populated ,30,499,5267,No,Good ,Low,Buford
+224,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+225,Populated ,57,699,7789,No,Good,Low,Buford
+226,Populated ,44,345,9475,No,Good,Low,Buford
+227,Unpopulated,33,637,3895,No,Good,Low,Buford
+228,Populated ,35,332,6512,No,Good,Low,Buford
+229,Unpopulated,33,60,7218,No,Bad,Low,Buford
+230,Populated ,50,107,9856,No,Good,Low,Buford
+231,Unpopulated,73,359,1346,No,Bad,High,Buford
+232,Populated,63,516,751,No,Good,Low,Philadelphia
+233,Unpopulated,36,443,7647,No,Bad,Low,Buford
+234,Populated,67,594,9833,No,Bad,Low,Philadelphia
+235,Populated ,45,620,7898,Yes,Good ,Low,Buford
+236,Unpopulated,33,10,5897,No,Bad,Low,Buford
+237,Populated ,52,38,5437,yes,Good,Low,Buford
+238,Populated ,43,310,1038,No,Good,Low,Buford
+239,Unpopulated,42,526,3572,No,Good,Low,Buford
+240,Populated ,79,195,3859,No,Good,High,Buford
+241,Unpopulated,54,34,8049,No,Bad,Low,Buford
+242,Populated ,69,90,8772,No,Good,High,Buford
+243,Unpopulated,39,60,3385,No,Bad,Low,Buford
+244,Populated,41,552,9992,No,Good,Low,Philadelphia
+245,Unpopulated,58,567,1891,No,Bad,Low,Buford
+246,Populated,80,87,508,No,Bad,High,Philadelphia
+247,Populated ,69,580,280,No,Good ,High,Buford
+248,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+249,Populated ,51,223,559,No,Good,Low,Buford
+250,Populated ,64,415,9551,yes,Good,Low,Buford
+251,Unpopulated,30,148,7248,No,Good,Low,Buford
+252,Populated ,36,429,5972,No,Good,Low,Buford
+253,Unpopulated,56,64,9202,No,Bad,Low,Buford
+254,Populated ,55,30,3894,No,Good,Low,Buford
+255,Unpopulated,60,432,2793,No,Bad,Low,Buford
+256,Populated,77,205,4113,No,Good,High,Philadelphia
+257,Unpopulated,41,486,7861,No,Bad,Low,Buford
+258,Populated,66,117,4364,No,Bad,Low,Philadelphia
+259,Populated ,58,631,5966,No,Good ,Low,Buford
+260,Unpopulated,60,607,5097,No,Bad,Low,Buford
+261,Populated ,54,456,5161,Yes,Good,Low,Buford
+262,Populated ,49,420,6938,No,Good,Low,Buford
+263,Unpopulated,38,188,8417,yes,Good,Low,Buford
+264,Populated ,60,679,9374,No,Good,Low,Buford
+265,Unpopulated,38,159,737,No,Bad,Low,Buford
+266,Populated ,77,311,4343,No,Good,High,Buford
+267,Unpopulated,63,43,8312,No,Bad,Low,Buford
+268,Populated,55,661,7247,No,Good,Low,Philadelphia
+269,Unpopulated,65,348,1437,No,Bad,Low,Buford
+270,Populated,64,414,4090,No,Bad,Low,Philadelphia
+271,Populated ,33,334,6227,No,Good ,Low,Buford
+272,Unpopulated,75,259,3924,No,Bad,High,Buford
+273,Populated ,51,426,7409,No,Good,Low,Buford
+274,Populated ,34,316,3769,Yes,Good,Low,Buford
+275,Unpopulated,31,175,1688,No,Good,Low,Buford
+276,Populated ,53,184,1993,yes,Good,Low,Buford
+277,Unpopulated,51,641,1414,No,Bad,Low,Buford
+278,Populated ,40,11,4643,No,Good,Low,Buford
+279,Unpopulated,78,600,2409,No,Bad,High,Buford
+280,Populated,62,51,8729,No,Good,Low,Philadelphia
+281,Unpopulated,30,187,8174,No,Bad,Low,Buford
+282,Populated,75,342,3712,No,Bad,High,Philadelphia
+283,Populated ,80,43,693,No,Good ,High,Buford
+284,Unpopulated,30,567,6485,No,Bad,Low,Buford
+285,Populated ,33,400,9471,No,Good,Low,Buford
+286,Populated ,66,425,258,No,Good,Low,Buford
+287,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+288,Populated ,54,355,6290,No,Good,Low,Buford
+289,Unpopulated,36,44,291,yes,Bad,Low,Buford
+290,Populated ,37,484,6271,No,Good,Low,Buford
+291,Unpopulated,65,286,8617,No,Bad,Low,Buford
+292,Populated,65,519,8192,No,Good,Low,Philadelphia
+293,Unpopulated,35,664,38,No,Bad,Low,Buford
+294,Populated,67,488,10,No,Bad,Low,Philadelphia
+295,Populated ,57,639,4535,No,Good ,Low,Buford
+296,Unpopulated,56,521,1780,No,Bad,Low,Buford
+297,Populated ,30,532,1284,No,Good,Low,Buford
+298,Populated ,56,678,5472,No,Good,Low,Buford
+299,Unpopulated,80,680,8662,No,Good,High,Buford
+300,Populated ,75,115,3812,Yes,Good,High,Buford
+301,Unpopulated,76,265,3652,No,Bad,High,Buford
+302,Populated ,53,153,4951,yes,Good,Low,Buford
+303,Unpopulated,69,364,6825,No,Bad,High,Buford
+304,Populated,41,494,2745,No,Good,Low,Philadelphia
+305,Unpopulated,53,354,7427,No,Bad,Low,Buford
+306,Populated,79,177,4568,No,Bad,High,Philadelphia
+307,Populated ,57,452,3814,No,Good ,Low,Buford
+308,Unpopulated,69,14,7930,No,Bad,High,Buford
+309,Populated ,31,513,9296,No,Good,Low,Buford
+310,Populated ,47,637,8700,No,Good,Low,Buford
+311,Unpopulated,43,52,5758,No,Good,Low,Buford
+312,Populated ,72,686,6182,No,Good,High,Buford
+313,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+314,Populated ,41,62,9997,No,Good,Low,Buford
+315,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+316,Populated,48,198,6681,No,Good,Low,Philadelphia
+317,Unpopulated,37,244,7702,No,Bad,Low,Buford
+318,Populated,36,271,1027,No,Bad,Low,Philadelphia
+319,Populated ,49,225,3615,No,Good ,Low,Buford
+320,Unpopulated,47,476,8085,No,Bad,Low,Buford
+321,Populated ,38,241,9918,No,Good,Low,Buford
+322,Populated ,75,315,2719,No,Good,High,Buford
+323,Unpopulated,60,255,8848,No,Good,Low,Buford
+324,Populated ,63,596,1703,No,Good,Low,Buford
+325,Unpopulated,71,254,9947,No,Bad,High,Buford
+326,Populated ,64,174,4919,Yes,Good,Low,Buford
+327,Unpopulated,73,547,6754,No,Bad,High,Buford
+328,Populated,46,524,3896,yes,Good,Low,Philadelphia
+329,Unpopulated,63,164,631,No,Bad,Low,Buford
+330,Populated,43,175,3645,No,Bad,Low,Philadelphia
+331,Populated ,51,149,5179,No,Good ,Low,Buford
+332,Unpopulated,63,227,2516,No,Bad,Low,Buford
+333,Populated ,69,63,6807,No,Good,High,Buford
+334,Populated ,46,675,8178,No,Good,Low,Buford
+335,Unpopulated,70,194,2932,No,Good,High,Buford
+336,Populated ,62,520,8144,No,Good,Low,Buford
+337,Unpopulated,68,494,2588,No,Bad,Low,Buford
+338,Populated ,42,134,739,No,Good,Low,Buford
+339,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+340,Populated,80,674,8501,No,Good,High,Philadelphia
+341,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+342,Populated,33,698,4598,No,Bad,Low,Philadelphia
+343,Populated ,80,152,8178,No,Good ,High,Buford
+344,Unpopulated,32,145,8296,No,Bad,Low,Buford
+345,Populated ,31,465,5759,No,Good,Low,Buford
+346,Populated ,68,16,1085,No,Good,Low,Buford
+347,Unpopulated,75,543,4713,No,Good,High,Buford
+348,Populated ,44,528,5697,No,Good,Low,Buford
+349,Unpopulated,73,608,1601,No,Bad,High,Buford
+350,Populated ,42,269,545,No,Good,Low,Buford
+351,Unpopulated,50,697,2428,No,Bad,Low,Buford
+352,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+353,Unpopulated,36,450,779,No,Bad,Low,Buford
+354,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+355,Populated ,80,691,4146,No,Good ,High,Buford
+356,Unpopulated,38,352,5413,No,Bad,Low,Buford
+357,Populated ,76,306,7996,No,Good,High,Buford
+358,Populated ,33,636,6516,No,Good,Low,Buford
+359,Unpopulated,31,552,2662,No,Good,Low,Buford
+360,Populated ,54,611,4707,No,Good,Low,Buford
+361,Unpopulated,43,224,8138,No,Bad,Low,Buford
+362,Populated ,36,389,4622,No,Good,Low,Buford
+363,Unpopulated,64,671,9158,No,Bad,Low,Buford
+364,Populated,34,36,1859,No,Good,Low,Philadelphia
+365,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+366,Populated,55,485,667,No,Bad,Low,Philadelphia
+367,Populated ,77,627,5985,yes,Good ,High,Buford
+368,Unpopulated,41,579,9072,No,Bad,Low,Buford
+369,Populated ,74,506,1158,No,Good,High,Buford
+370,Populated ,48,557,828,No,Good,Low,Buford
+371,Unpopulated,69,185,5532,No,Good,High,Buford
+372,Populated ,49,333,6343,No,Good,Low,Buford
+373,Unpopulated,34,147,9613,No,Bad,Low,Buford
+374,Populated ,42,680,2945,No,Good,Low,Buford
+375,Unpopulated,71,72,4847,No,Bad,High,Buford
+376,Populated,36,71,1037,No,Good,Low,Philadelphia
+377,Unpopulated,54,338,900,No,Bad,Low,Buford
+378,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+379,Populated ,46,358,340,No,Good ,Low,Buford
+380,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+381,Populated ,65,236,8885,No,Good,Low,Buford
+382,Populated ,68,263,8442,No,Good,Low,Buford
+383,Unpopulated,57,61,2372,No,Good,Low,Buford
+384,Populated ,57,674,3302,No,Good,Low,Buford
+385,Unpopulated,49,559,8583,No,Bad,Low,Buford
+386,Populated ,64,260,7887,No,Good,Low,Buford
+387,Unpopulated,44,315,8349,No,Bad,Low,Buford
+388,Populated,78,267,9813,No,Good,High,Philadelphia
+389,Unpopulated,58,57,1342,No,Bad,Low,Buford
+390,Populated,79,520,6497,No,Bad,High,Philadelphia
+391,Populated ,73,577,9347,Yes,Good ,High,Buford
+392,Unpopulated,33,484,7781,No,Bad,Low,Buford
+393,Populated ,40,174,7715,yes,Good,Low,Buford
+394,Populated ,61,8,6409,No,Good,Low,Buford
+395,Unpopulated,41,600,5072,No,Good,Low,Buford
+396,Populated ,53,60,3393,No,Good,Low,Buford
+397,Unpopulated,44,548,6087,No,Bad,Low,Buford
+398,Populated ,70,427,3681,No,Good ,High,Buford
+399,Unpopulated,31,515,5233,No,Bad,Low,Buford
+400,Populated ,58,565,2099,No,Good,Low,Buford
+401,Populated ,68,340,8626,No,Good,Low,Buford
+402,Unpopulated,67,210,6387,No,Good,Low,Buford
+403,Populated ,35,284,2126,No,Good,Low,Buford
+404,Unpopulated,75,98,211,No,Bad,High,Buford
+405,Populated ,64,237,9295,No,Good,Low,Buford
+406,Unpopulated,37,218,9194,No,Bad,Low,Buford
+407,Populated,70,650,6063,No,Good,High,Philadelphia
+408,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+409,Populated,80,171,7722,No,Bad,High,Philadelphia
+410,Populated ,36,324,6365,yes,Good ,Low,Buford
+411,Unpopulated,80,387,2526,No,Bad,High,Buford
+412,Populated ,62,662,7849,No,Good,Low,Buford
+413,Populated ,39,589,5360,No,Good,Low,Buford
+414,Unpopulated,53,567,8058,No,Good,Low,Buford
+415,Populated ,32,574,37,No,Good,Low,Buford
+416,Unpopulated,42,84,3774,No,Bad,Low,Buford
+417,Populated ,31,698,5842,No,Good,Low,Buford
+418,Unpopulated,57,689,8692,No,Bad,Low,Buford
+419,Populated,49,608,4827,No,Good,Low,Philadelphia
+420,Unpopulated,38,512,7858,No,Bad,Low,Buford
+421,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+422,Populated ,30,499,5267,No,Good ,Low,Buford
+423,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+424,Populated ,57,699,7789,No,Good,Low,Buford
+425,Populated ,44,345,9475,No,Good,Low,Buford
+426,Unpopulated,33,637,3895,No,Good,Low,Buford
+427,Populated ,35,332,6512,No,Good,Low,Buford
+428,Unpopulated,33,60,7218,No,Bad,Low,Buford
+429,Populated ,50,107,9856,No,Good,Low,Buford
+430,Unpopulated,73,359,1346,No,Bad,High,Buford
+431,Populated,63,516,751,No,Good,Low,Philadelphia
+432,Unpopulated,36,443,7647,No,Bad,Low,Buford
+433,Populated,67,594,9833,No,Bad,Low,Philadelphia
+434,Populated ,45,620,7898,Yes,Good ,Low,Buford
+435,Unpopulated,33,10,5897,No,Bad,Low,Buford
+436,Populated ,52,38,5437,yes,Good,Low,Buford
+437,Populated ,43,310,1038,No,Good,Low,Buford
+438,Unpopulated,42,526,3572,No,Good,Low,Buford
+439,Populated ,79,195,3859,No,Good,High,Buford
+440,Unpopulated,54,34,8049,No,Bad,Low,Buford
+441,Populated ,69,90,8772,No,Good,High,Buford
+442,Unpopulated,39,60,3385,No,Bad,Low,Buford
+443,Populated,41,552,9992,No,Good,Low,Philadelphia
+444,Unpopulated,58,567,1891,No,Bad,Low,Buford
+445,Populated,80,87,508,No,Bad,High,Philadelphia
+446,Populated ,69,580,280,No,Good ,High,Buford
+447,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+448,Populated ,51,223,559,No,Good,Low,Buford
+449,Populated ,64,415,9551,yes,Good,Low,Buford
+450,Unpopulated,30,148,7248,No,Good,Low,Buford
+451,Populated ,36,429,5972,No,Good,Low,Buford
+452,Unpopulated,56,64,9202,No,Bad,Low,Buford
+453,Populated ,55,30,3894,No,Good,Low,Buford
+454,Unpopulated,60,432,2793,No,Bad,Low,Buford
+455,Populated,77,205,4113,No,Good,High,Philadelphia
+456,Unpopulated,41,486,7861,No,Bad,Low,Buford
+457,Populated,66,117,4364,No,Bad,Low,Philadelphia
+458,Populated ,58,631,5966,No,Good ,Low,Buford
+459,Unpopulated,60,607,5097,No,Bad,Low,Buford
+460,Populated ,54,456,5161,Yes,Good,Low,Buford
+461,Populated ,49,420,6938,No,Good,Low,Buford
+462,Unpopulated,38,188,8417,yes,Good,Low,Buford
+463,Populated ,60,679,9374,No,Good,Low,Buford
+464,Unpopulated,38,159,737,No,Bad,Low,Buford
+465,Populated ,77,311,4343,No,Good,High,Buford
+466,Unpopulated,63,43,8312,No,Bad,Low,Buford
+467,Populated,55,661,7247,No,Good,Low,Philadelphia
+468,Unpopulated,65,348,1437,No,Bad,Low,Buford
+469,Populated,64,414,4090,No,Bad,Low,Philadelphia
+470,Populated ,33,334,6227,No,Good ,Low,Buford
+471,Unpopulated,75,259,3924,No,Bad,High,Buford
+472,Populated ,51,426,7409,No,Good,Low,Buford
+473,Populated ,34,316,3769,Yes,Good,Low,Buford
+474,Unpopulated,31,175,1688,No,Good,Low,Buford
+475,Populated ,53,184,1993,yes,Good,Low,Buford
+476,Unpopulated,51,641,1414,No,Bad,Low,Buford
+477,Populated ,40,11,4643,No,Good,Low,Buford
+478,Unpopulated,78,600,2409,No,Bad,High,Buford
+479,Populated,62,51,8729,No,Good,Low,Philadelphia
+480,Unpopulated,30,187,8174,No,Bad,Low,Buford
+481,Populated,75,342,3712,No,Bad,High,Philadelphia
+482,Populated ,80,43,693,No,Good ,High,Buford
+483,Unpopulated,30,567,6485,No,Bad,Low,Buford
+484,Populated ,33,400,9471,No,Good,Low,Buford
+485,Populated ,66,425,258,No,Good,Low,Buford
+486,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+487,Populated ,54,355,6290,No,Good,Low,Buford
+488,Unpopulated,36,44,291,yes,Bad,Low,Buford
+489,Populated ,37,484,6271,No,Good,Low,Buford
+490,Unpopulated,65,286,8617,No,Bad,Low,Buford
+491,Populated,65,519,8192,No,Good,Low,Philadelphia
+492,Unpopulated,35,664,38,No,Bad,Low,Buford
+493,Populated,67,488,10,No,Bad,Low,Philadelphia
+494,Populated ,57,639,4535,No,Good ,Low,Buford
+495,Unpopulated,56,521,1780,No,Bad,Low,Buford
+496,Populated ,30,532,1284,No,Good,Low,Buford
+497,Populated ,56,678,5472,No,Good,Low,Buford
+498,Unpopulated,80,680,8662,No,Good,High,Buford
+499,Populated ,75,115,3812,Yes,Good,High,Buford
+500,Unpopulated,76,265,3652,No,Bad,High,Buford
+501,Populated ,53,153,4951,yes,Good,Low,Buford
+502,Unpopulated,69,364,6825,No,Bad,High,Buford
+503,Populated,41,494,2745,No,Good,Low,Philadelphia
+504,Unpopulated,53,354,7427,No,Bad,Low,Buford
+505,Populated,79,177,4568,No,Bad,High,Philadelphia
+506,Populated ,57,452,3814,No,Good ,Low,Buford
+507,Unpopulated,69,14,7930,No,Bad,High,Buford
+508,Populated ,31,513,9296,No,Good,Low,Buford
+509,Populated ,47,637,8700,No,Good,Low,Buford
+510,Unpopulated,43,52,5758,No,Good,Low,Buford
+511,Populated ,72,686,6182,No,Good,High,Buford
+512,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+513,Populated ,41,62,9997,No,Good,Low,Buford
+514,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+515,Populated,48,198,6681,No,Good,Low,Philadelphia
+516,Unpopulated,37,244,7702,No,Bad,Low,Buford
+517,Populated,36,271,1027,No,Bad,Low,Philadelphia
+518,Populated ,49,225,3615,No,Good ,Low,Buford
+519,Unpopulated,47,476,8085,No,Bad,Low,Buford
+520,Populated ,38,241,9918,No,Good,Low,Buford
+521,Populated ,75,315,2719,No,Good,High,Buford
+522,Unpopulated,60,255,8848,No,Good,Low,Buford
+523,Populated ,63,596,1703,No,Good,Low,Buford
+524,Unpopulated,71,254,9947,No,Bad,High,Buford
+525,Populated ,64,174,4919,Yes,Good,Low,Buford
+526,Unpopulated,73,547,6754,No,Bad,High,Buford
+527,Populated,46,524,3896,yes,Good,Low,Philadelphia
+528,Unpopulated,63,164,631,No,Bad,Low,Buford
+529,Populated,43,175,3645,No,Bad,Low,Philadelphia
+530,Populated ,51,149,5179,No,Good ,Low,Buford
+531,Unpopulated,63,227,2516,No,Bad,Low,Buford
+532,Populated ,69,63,6807,No,Good,High,Buford
+533,Populated ,46,675,8178,No,Good,Low,Buford
+534,Unpopulated,70,194,2932,No,Good,High,Buford
+535,Populated ,62,520,8144,No,Good,Low,Buford
+536,Unpopulated,68,494,2588,No,Bad,Low,Buford
+537,Populated ,42,134,739,No,Good,Low,Buford
+538,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+539,Populated,80,674,8501,No,Good,High,Philadelphia
+540,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+541,Populated,33,698,4598,No,Bad,Low,Philadelphia
+542,Populated ,80,152,8178,No,Good ,High,Buford
+543,Unpopulated,32,145,8296,No,Bad,Low,Buford
+544,Populated ,31,465,5759,No,Good,Low,Buford
+545,Populated ,68,16,1085,No,Good,Low,Buford
+546,Unpopulated,75,543,4713,No,Good,High,Buford
+547,Populated ,44,528,5697,No,Good,Low,Buford
+548,Unpopulated,73,608,1601,No,Bad,High,Buford
+549,Populated ,42,269,545,No,Good,Low,Buford
+550,Unpopulated,50,697,2428,No,Bad,Low,Buford
+551,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+552,Unpopulated,36,450,779,No,Bad,Low,Buford
+553,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+554,Populated ,80,691,4146,No,Good ,High,Buford
+555,Unpopulated,38,352,5413,No,Bad,Low,Buford
+556,Populated ,76,306,7996,No,Good,High,Buford
+557,Populated ,33,636,6516,No,Good,Low,Buford
+558,Unpopulated,31,552,2662,No,Good,Low,Buford
+559,Populated ,54,611,4707,No,Good,Low,Buford
+560,Unpopulated,43,224,8138,No,Bad,Low,Buford
+561,Populated ,36,389,4622,No,Good,Low,Buford
+562,Unpopulated,64,671,9158,No,Bad,Low,Buford
+563,Populated,34,36,1859,No,Good,Low,Philadelphia
+564,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+565,Populated,55,485,667,No,Bad,Low,Philadelphia
+566,Populated ,77,627,5985,yes,Good ,High,Buford
+567,Unpopulated,41,579,9072,No,Bad,Low,Buford
+568,Populated ,74,506,1158,No,Good,High,Buford
+569,Populated ,48,557,828,No,Good,Low,Buford
+570,Unpopulated,69,185,5532,No,Good,High,Buford
+571,Populated ,49,333,6343,No,Good,Low,Buford
+572,Unpopulated,34,147,9613,No,Bad,Low,Buford
+573,Populated ,42,680,2945,No,Good,Low,Buford
+574,Unpopulated,71,72,4847,No,Bad,High,Buford
+575,Populated,36,71,1037,No,Good,Low,Philadelphia
+576,Unpopulated,54,338,900,No,Bad,Low,Buford
+577,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+578,Populated ,46,358,340,No,Good ,Low,Buford
+579,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+580,Populated ,65,236,8885,No,Good,Low,Buford
+581,Populated ,68,263,8442,No,Good,Low,Buford
+582,Unpopulated,57,61,2372,No,Good,Low,Buford
+583,Populated ,57,674,3302,No,Good,Low,Buford
+584,Unpopulated,49,559,8583,No,Bad,Low,Buford
+585,Populated ,64,260,7887,No,Good,Low,Buford
+586,Unpopulated,44,315,8349,No,Bad,Low,Buford
+587,Populated,78,267,9813,No,Good,High,Philadelphia
+588,Unpopulated,58,57,1342,No,Bad,Low,Buford
+589,Populated,79,520,6497,No,Bad,High,Philadelphia
+590,Populated ,73,577,9347,Yes,Good ,High,Buford
+591,Unpopulated,33,484,7781,No,Bad,Low,Buford
+592,Populated ,40,174,7715,yes,Good,Low,Buford
+593,Populated ,61,8,6409,No,Good,Low,Buford
+594,Unpopulated,41,600,5072,No,Good,Low,Buford
+595,Populated ,53,60,3393,No,Good,Low,Buford
+596,Unpopulated,44,548,6087,No,Bad,Low,Buford
+597,Populated ,70,427,3681,No,Good ,High,Buford
+598,Unpopulated,31,515,5233,No,Bad,Low,Buford
+599,Populated ,58,565,2099,No,Good,Low,Buford
+600,Populated ,68,340,8626,No,Good,Low,Buford
+601,Unpopulated,67,210,6387,No,Good,Low,Buford
+602,Populated ,35,284,2126,No,Good,Low,Buford
+603,Unpopulated,75,98,211,No,Bad,High,Buford
+604,Populated ,64,237,9295,No,Good,Low,Buford
+605,Unpopulated,37,218,9194,No,Bad,Low,Buford
+606,Populated,70,650,6063,No,Good,High,Philadelphia
+607,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+608,Populated,80,171,7722,No,Bad,High,Philadelphia
+609,Populated ,36,324,6365,yes,Good ,Low,Buford
+610,Unpopulated,80,387,2526,No,Bad,High,Buford
+611,Populated ,62,662,7849,No,Good,Low,Buford
+612,Populated ,39,589,5360,No,Good,Low,Buford
+613,Unpopulated,53,567,8058,No,Good,Low,Buford
+614,Populated ,32,574,37,No,Good,Low,Buford
+615,Unpopulated,42,84,3774,No,Bad,Low,Buford
+616,Populated ,31,698,5842,No,Good,Low,Buford
+617,Unpopulated,57,689,8692,No,Bad,Low,Buford
+618,Populated,49,608,4827,No,Good,Low,Philadelphia
+619,Unpopulated,38,512,7858,No,Bad,Low,Buford
+620,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+621,Populated ,30,499,5267,No,Good ,Low,Buford
+622,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+623,Populated ,57,699,7789,No,Good,Low,Buford
+624,Populated ,44,345,9475,No,Good,Low,Buford
+625,Unpopulated,33,637,3895,No,Good,Low,Buford
+626,Populated ,35,332,6512,No,Good,Low,Buford
+627,Unpopulated,33,60,7218,No,Bad,Low,Buford
+628,Populated ,50,107,9856,No,Good,Low,Buford
+629,Unpopulated,73,359,1346,No,Bad,High,Buford
+630,Populated,63,516,751,No,Good,Low,Philadelphia
+631,Unpopulated,36,443,7647,No,Bad,Low,Buford
+632,Populated,67,594,9833,No,Bad,Low,Philadelphia
+633,Populated ,45,620,7898,Yes,Good ,Low,Buford
+634,Unpopulated,33,10,5897,No,Bad,Low,Buford
+635,Populated ,52,38,5437,yes,Good,Low,Buford
+636,Populated ,43,310,1038,No,Good,Low,Buford
+637,Unpopulated,42,526,3572,No,Good,Low,Buford
+638,Populated ,79,195,3859,No,Good,High,Buford
+639,Unpopulated,54,34,8049,No,Bad,Low,Buford
+640,Populated ,69,90,8772,No,Good,High,Buford
+641,Unpopulated,39,60,3385,No,Bad,Low,Buford
+642,Populated,41,552,9992,No,Good,Low,Philadelphia
+643,Unpopulated,58,567,1891,No,Bad,Low,Buford
+644,Populated,80,87,508,No,Bad,High,Philadelphia
+645,Populated ,69,580,280,No,Good ,High,Buford
+646,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+647,Populated ,51,223,559,No,Good,Low,Buford
+648,Populated ,64,415,9551,yes,Good,Low,Buford
+649,Unpopulated,30,148,7248,No,Good,Low,Buford
+650,Populated ,36,429,5972,No,Good,Low,Buford
+651,Unpopulated,56,64,9202,No,Bad,Low,Buford
+652,Populated ,55,30,3894,No,Good,Low,Buford
+653,Unpopulated,60,432,2793,No,Bad,Low,Buford
+654,Populated,77,205,4113,No,Good,High,Philadelphia
+655,Unpopulated,41,486,7861,No,Bad,Low,Buford
+656,Populated,66,117,4364,No,Bad,Low,Philadelphia
+657,Populated ,58,631,5966,No,Good ,Low,Buford
+658,Unpopulated,60,607,5097,No,Bad,Low,Buford
+659,Populated ,54,456,5161,Yes,Good,Low,Buford
+660,Populated ,49,420,6938,No,Good,Low,Buford
+661,Unpopulated,38,188,8417,yes,Good,Low,Buford
+662,Populated ,60,679,9374,No,Good,Low,Buford
+663,Unpopulated,38,159,737,No,Bad,Low,Buford
+664,Populated ,77,311,4343,No,Good,High,Buford
+665,Unpopulated,63,43,8312,No,Bad,Low,Buford
+666,Populated,55,661,7247,No,Good,Low,Philadelphia
+667,Unpopulated,65,348,1437,No,Bad,Low,Buford
+668,Populated,64,414,4090,No,Bad,Low,Philadelphia
+669,Populated ,33,334,6227,No,Good ,Low,Buford
+670,Unpopulated,75,259,3924,No,Bad,High,Buford
+671,Populated ,51,426,7409,No,Good,Low,Buford
+672,Populated ,34,316,3769,Yes,Good,Low,Buford
+673,Unpopulated,31,175,1688,No,Good,Low,Buford
+674,Populated ,53,184,1993,yes,Good,Low,Buford
+675,Unpopulated,51,641,1414,No,Bad,Low,Buford
+676,Populated ,40,11,4643,No,Good,Low,Buford
+677,Unpopulated,78,600,2409,No,Bad,High,Buford
+678,Populated,62,51,8729,No,Good,Low,Philadelphia
+679,Unpopulated,30,187,8174,No,Bad,Low,Buford
+680,Populated,75,342,3712,No,Bad,High,Philadelphia
+681,Populated ,80,43,693,No,Good ,High,Buford
+682,Unpopulated,30,567,6485,No,Bad,Low,Buford
+683,Populated ,33,400,9471,No,Good,Low,Buford
+684,Populated ,66,425,258,No,Good,Low,Buford
+685,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+686,Populated ,54,355,6290,No,Good,Low,Buford
+687,Unpopulated,36,44,291,yes,Bad,Low,Buford
+688,Populated ,37,484,6271,No,Good,Low,Buford
+689,Unpopulated,65,286,8617,No,Bad,Low,Buford
+690,Populated,65,519,8192,No,Good,Low,Philadelphia
+691,Unpopulated,35,664,38,No,Bad,Low,Buford
+692,Populated,67,488,10,No,Bad,Low,Philadelphia
+693,Populated ,57,639,4535,No,Good ,Low,Buford
+694,Unpopulated,56,521,1780,No,Bad,Low,Buford
+695,Populated ,30,532,1284,No,Good,Low,Buford
+696,Populated ,56,678,5472,No,Good,Low,Buford
+697,Unpopulated,80,680,8662,No,Good,High,Buford
+698,Populated ,75,115,3812,Yes,Good,High,Buford
+699,Unpopulated,76,265,3652,No,Bad,High,Buford
+700,Populated ,53,153,4951,yes,Good,Low,Buford
+701,Unpopulated,69,364,6825,No,Bad,High,Buford
+702,Populated,41,494,2745,No,Good,Low,Philadelphia
+703,Unpopulated,53,354,7427,No,Bad,Low,Buford
+704,Populated,79,177,4568,No,Bad,High,Philadelphia
+705,Populated ,57,452,3814,No,Good ,Low,Buford
+706,Unpopulated,69,14,7930,No,Bad,High,Buford
+707,Populated ,31,513,9296,No,Good,Low,Buford
+708,Populated ,47,637,8700,No,Good,Low,Buford
+709,Unpopulated,43,52,5758,No,Good,Low,Buford
+710,Populated ,72,686,6182,No,Good,High,Buford
+711,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+712,Populated ,41,62,9997,No,Good,Low,Buford
+713,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+714,Populated,48,198,6681,No,Good,Low,Philadelphia
+715,Unpopulated,37,244,7702,No,Bad,Low,Buford
+716,Populated,36,271,1027,No,Bad,Low,Philadelphia
+717,Populated ,49,225,3615,No,Good ,Low,Buford
+718,Unpopulated,47,476,8085,No,Bad,Low,Buford
+719,Populated ,38,241,9918,No,Good,Low,Buford
+720,Populated ,75,315,2719,No,Good,High,Buford
+721,Unpopulated,60,255,8848,No,Good,Low,Buford
+722,Populated ,63,596,1703,No,Good,Low,Buford
+723,Unpopulated,71,254,9947,No,Bad,High,Buford
+724,Populated ,64,174,4919,Yes,Good,Low,Buford
+725,Unpopulated,73,547,6754,No,Bad,High,Buford
+726,Populated,46,524,3896,yes,Good,Low,Philadelphia
+727,Unpopulated,63,164,631,No,Bad,Low,Buford
+728,Populated,43,175,3645,No,Bad,Low,Philadelphia
+729,Populated ,51,149,5179,No,Good ,Low,Buford
+730,Unpopulated,63,227,2516,No,Bad,Low,Buford
+731,Populated ,69,63,6807,No,Good,High,Buford
+732,Populated ,46,675,8178,No,Good,Low,Buford
+733,Unpopulated,70,194,2932,No,Good,High,Buford
+734,Populated ,62,520,8144,No,Good,Low,Buford
+735,Unpopulated,68,494,2588,No,Bad,Low,Buford
+736,Populated ,42,134,739,No,Good,Low,Buford
+737,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+738,Populated,80,674,8501,No,Good,High,Philadelphia
+739,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+740,Populated,33,698,4598,No,Bad,Low,Philadelphia
+741,Populated ,80,152,8178,No,Good ,High,Buford
+742,Unpopulated,32,145,8296,No,Bad,Low,Buford
+743,Populated ,31,465,5759,No,Good,Low,Buford
+744,Populated ,68,16,1085,No,Good,Low,Buford
+745,Unpopulated,75,543,4713,No,Good,High,Buford
+746,Populated ,44,528,5697,No,Good,Low,Buford
+747,Unpopulated,73,608,1601,No,Bad,High,Buford
+748,Populated ,42,269,545,No,Good,Low,Buford
+749,Unpopulated,50,697,2428,No,Bad,Low,Buford
+750,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+751,Unpopulated,36,450,779,No,Bad,Low,Buford
+752,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+753,Populated ,80,691,4146,No,Good ,High,Buford
+754,Unpopulated,38,352,5413,No,Bad,Low,Buford
+755,Populated ,76,306,7996,No,Good,High,Buford
+756,Populated ,33,636,6516,No,Good,Low,Buford
+757,Unpopulated,31,552,2662,No,Good,Low,Buford
+758,Populated ,54,611,4707,No,Good,Low,Buford
+759,Unpopulated,43,224,8138,No,Bad,Low,Buford
+760,Populated ,36,389,4622,No,Good,Low,Buford
+761,Unpopulated,64,671,9158,No,Bad,Low,Buford
+762,Populated,34,36,1859,No,Good,Low,Philadelphia
+763,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+764,Populated,55,485,667,No,Bad,Low,Philadelphia
+765,Populated ,77,627,5985,yes,Good ,High,Buford
+766,Unpopulated,41,579,9072,No,Bad,Low,Buford
+767,Populated ,74,506,1158,No,Good,High,Buford
+768,Populated ,48,557,828,No,Good,Low,Buford
+769,Unpopulated,69,185,5532,No,Good,High,Buford
+770,Populated ,49,333,6343,No,Good,Low,Buford
+771,Unpopulated,34,147,9613,No,Bad,Low,Buford
+772,Populated ,42,680,2945,No,Good,Low,Buford
+773,Unpopulated,71,72,4847,No,Bad,High,Buford
+774,Populated,36,71,1037,No,Good,Low,Philadelphia
+775,Unpopulated,54,338,900,No,Bad,Low,Buford
+776,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+777,Populated ,46,358,340,No,Good ,Low,Buford
+778,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+779,Populated ,65,236,8885,No,Good,Low,Buford
+780,Populated ,68,263,8442,No,Good,Low,Buford
+781,Unpopulated,57,61,2372,No,Good,Low,Buford
+782,Populated ,57,674,3302,No,Good,Low,Buford
+783,Unpopulated,49,559,8583,No,Bad,Low,Buford
+784,Populated ,64,260,7887,No,Good,Low,Buford
+785,Unpopulated,44,315,8349,No,Bad,Low,Buford
+786,Populated,78,267,9813,No,Good,High,Philadelphia
+787,Unpopulated,58,57,1342,No,Bad,Low,Buford
+788,Populated,79,520,6497,No,Bad,High,Philadelphia
+789,Populated ,73,577,9347,Yes,Good ,High,Buford
+790,Unpopulated,33,484,7781,No,Bad,Low,Buford
+791,Populated ,40,174,7715,yes,Good,Low,Buford
+792,Populated ,61,8,6409,No,Good,Low,Buford
+793,Unpopulated,41,600,5072,No,Good,Low,Buford
+794,Populated ,53,60,3393,No,Good,Low,Buford
+795,Unpopulated,44,548,6087,No,Bad,Low,Buford
+796,Populated ,70,427,3681,No,Good ,High,Buford
+797,Unpopulated,31,515,5233,No,Bad,Low,Buford
+798,Populated ,58,565,2099,No,Good,Low,Buford
+799,Populated ,68,340,8626,No,Good,Low,Buford
+800,Unpopulated,67,210,6387,No,Good,Low,Buford
+801,Populated ,35,284,2126,No,Good,Low,Buford
+802,Unpopulated,75,98,211,No,Bad,High,Buford
+803,Populated ,64,237,9295,No,Good,Low,Buford
+804,Unpopulated,37,218,9194,No,Bad,Low,Buford
+805,Populated,70,650,6063,No,Good,High,Philadelphia
+806,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+807,Populated,80,171,7722,No,Bad,High,Philadelphia
+808,Populated ,36,324,6365,yes,Good ,Low,Buford
+809,Unpopulated,80,387,2526,No,Bad,High,Buford
+810,Populated ,62,662,7849,No,Good,Low,Buford
+811,Populated ,39,589,5360,No,Good,Low,Buford
+812,Unpopulated,53,567,8058,No,Good,Low,Buford
+813,Populated ,32,574,37,No,Good,Low,Buford
+814,Unpopulated,42,84,3774,No,Bad,Low,Buford
+815,Populated ,31,698,5842,No,Good,Low,Buford
+816,Unpopulated,57,689,8692,No,Bad,Low,Buford
+817,Populated,49,608,4827,No,Good,Low,Philadelphia
+818,Unpopulated,38,512,7858,No,Bad,Low,Buford
+819,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+820,Populated ,30,499,5267,No,Good ,Low,Buford
+821,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+822,Populated ,57,699,7789,No,Good,Low,Buford
+823,Populated ,44,345,9475,No,Good,Low,Buford
+824,Unpopulated,33,637,3895,No,Good,Low,Buford
+825,Populated ,35,332,6512,No,Good,Low,Buford
+826,Unpopulated,33,60,7218,No,Bad,Low,Buford
+827,Populated ,50,107,9856,No,Good,Low,Buford
+828,Unpopulated,73,359,1346,No,Bad,High,Buford
+829,Populated,63,516,751,No,Good,Low,Philadelphia
+830,Unpopulated,36,443,7647,No,Bad,Low,Buford
+831,Populated,67,594,9833,No,Bad,Low,Philadelphia
+832,Populated ,45,620,7898,Yes,Good ,Low,Buford
+833,Unpopulated,33,10,5897,No,Bad,Low,Buford
+834,Populated ,52,38,5437,yes,Good,Low,Buford
+835,Populated ,43,310,1038,No,Good,Low,Buford
+836,Unpopulated,42,526,3572,No,Good,Low,Buford
+837,Populated ,79,195,3859,No,Good,High,Buford
+838,Unpopulated,54,34,8049,No,Bad,Low,Buford
+839,Populated ,69,90,8772,No,Good,High,Buford
+840,Unpopulated,39,60,3385,No,Bad,Low,Buford
+841,Populated,41,552,9992,No,Good,Low,Philadelphia
+842,Unpopulated,58,567,1891,No,Bad,Low,Buford
+843,Populated,80,87,508,No,Bad,High,Philadelphia
+844,Populated ,69,580,280,No,Good ,High,Buford
+845,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+846,Populated ,51,223,559,No,Good,Low,Buford
+847,Populated ,64,415,9551,yes,Good,Low,Buford
+848,Unpopulated,30,148,7248,No,Good,Low,Buford
+849,Populated ,36,429,5972,No,Good,Low,Buford
+850,Unpopulated,56,64,9202,No,Bad,Low,Buford
+851,Populated ,55,30,3894,No,Good,Low,Buford
+852,Unpopulated,60,432,2793,No,Bad,Low,Buford
+853,Populated,77,205,4113,No,Good,High,Philadelphia
+854,Unpopulated,41,486,7861,No,Bad,Low,Buford
+855,Populated,66,117,4364,No,Bad,Low,Philadelphia
+856,Populated ,58,631,5966,No,Good ,Low,Buford
+857,Unpopulated,60,607,5097,No,Bad,Low,Buford
+858,Populated ,54,456,5161,Yes,Good,Low,Buford
+859,Populated ,49,420,6938,No,Good,Low,Buford
+860,Unpopulated,38,188,8417,yes,Good,Low,Buford
+861,Populated ,60,679,9374,No,Good,Low,Buford
+862,Unpopulated,38,159,737,No,Bad,Low,Buford
+863,Populated ,77,311,4343,No,Good,High,Buford
+864,Unpopulated,63,43,8312,No,Bad,Low,Buford
+865,Populated,55,661,7247,No,Good,Low,Philadelphia
+866,Unpopulated,65,348,1437,No,Bad,Low,Buford
+867,Populated,64,414,4090,No,Bad,Low,Philadelphia
+868,Populated ,33,334,6227,No,Good ,Low,Buford
+869,Unpopulated,75,259,3924,No,Bad,High,Buford
+870,Populated ,51,426,7409,No,Good,Low,Buford
+871,Populated ,34,316,3769,Yes,Good,Low,Buford
+872,Unpopulated,31,175,1688,No,Good,Low,Buford
+873,Populated ,53,184,1993,yes,Good,Low,Buford
+874,Unpopulated,51,641,1414,No,Bad,Low,Buford
+875,Populated ,40,11,4643,No,Good,Low,Buford
+876,Unpopulated,78,600,2409,No,Bad,High,Buford
+877,Populated,62,51,8729,No,Good,Low,Philadelphia
+878,Unpopulated,30,187,8174,No,Bad,Low,Buford
+879,Populated,75,342,3712,No,Bad,High,Philadelphia
+880,Populated ,80,43,693,No,Good ,High,Buford
+881,Unpopulated,30,567,6485,No,Bad,Low,Buford
+882,Populated ,33,400,9471,No,Good,Low,Buford
+883,Populated ,66,425,258,No,Good,Low,Buford
+884,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+885,Populated ,54,355,6290,No,Good,Low,Buford
+886,Unpopulated,36,44,291,yes,Bad,Low,Buford
+887,Populated ,37,484,6271,No,Good,Low,Buford
+888,Unpopulated,65,286,8617,No,Bad,Low,Buford
+889,Populated,65,519,8192,No,Good,Low,Philadelphia
+890,Unpopulated,35,664,38,No,Bad,Low,Buford
+891,Populated,67,488,10,No,Bad,Low,Philadelphia
+892,Populated ,57,639,4535,No,Good ,Low,Buford
+893,Unpopulated,56,521,1780,No,Bad,Low,Buford
+894,Populated ,30,532,1284,No,Good,Low,Buford
+895,Populated ,56,678,5472,No,Good,Low,Buford
+896,Unpopulated,80,680,8662,No,Good,High,Buford
+897,Populated ,75,115,3812,Yes,Good,High,Buford
+898,Unpopulated,76,265,3652,No,Bad,High,Buford
+899,Populated ,53,153,4951,yes,Good,Low,Buford
+900,Unpopulated,69,364,6825,No,Bad,High,Buford
+901,Populated,41,494,2745,No,Good,Low,Philadelphia
+902,Unpopulated,53,354,7427,No,Bad,Low,Buford
+903,Populated,79,177,4568,No,Bad,High,Philadelphia
+904,Populated ,57,452,3814,No,Good ,Low,Buford
+905,Unpopulated,69,14,7930,No,Bad,High,Buford
+906,Populated ,31,513,9296,No,Good,Low,Buford
+907,Populated ,47,637,8700,No,Good,Low,Buford
+908,Unpopulated,43,52,5758,No,Good,Low,Buford
+909,Populated ,72,686,6182,No,Good,High,Buford
+910,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+911,Populated ,41,62,9997,No,Good,Low,Buford
+912,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+913,Populated,48,198,6681,No,Good,Low,Philadelphia
+914,Unpopulated,37,244,7702,No,Bad,Low,Buford
+915,Populated,36,271,1027,No,Bad,Low,Philadelphia
+916,Populated ,49,225,3615,No,Good ,Low,Buford
+917,Unpopulated,47,476,8085,No,Bad,Low,Buford
+918,Populated ,38,241,9918,No,Good,Low,Buford
+919,Populated ,75,315,2719,No,Good,High,Buford
+920,Unpopulated,60,255,8848,No,Good,Low,Buford
+921,Populated ,63,596,1703,No,Good,Low,Buford
+922,Unpopulated,71,254,9947,No,Bad,High,Buford
+923,Populated ,64,174,4919,Yes,Good,Low,Buford
+924,Unpopulated,73,547,6754,No,Bad,High,Buford
+925,Populated,46,524,3896,yes,Good,Low,Philadelphia
+926,Unpopulated,63,164,631,No,Bad,Low,Buford
+927,Populated,43,175,3645,No,Bad,Low,Philadelphia
+928,Populated ,51,149,5179,No,Good ,Low,Buford
+929,Unpopulated,63,227,2516,No,Bad,Low,Buford
+930,Populated ,69,63,6807,No,Good,High,Buford
+931,Populated ,46,675,8178,No,Good,Low,Buford
+932,Unpopulated,70,194,2932,No,Good,High,Buford
+933,Populated ,62,520,8144,No,Good,Low,Buford
+934,Unpopulated,68,494,2588,No,Bad,Low,Buford
+935,Populated ,42,134,739,No,Good,Low,Buford
+936,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+937,Populated,80,674,8501,No,Good,High,Philadelphia
+938,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+939,Populated,33,698,4598,No,Bad,Low,Philadelphia
+940,Populated ,80,152,8178,No,Good ,High,Buford
+941,Unpopulated,32,145,8296,No,Bad,Low,Buford
+942,Populated ,31,465,5759,No,Good,Low,Buford
+943,Populated ,68,16,1085,No,Good,Low,Buford
+944,Unpopulated,75,543,4713,No,Good,High,Buford
+945,Populated ,44,528,5697,No,Good,Low,Buford
+946,Unpopulated,73,608,1601,No,Bad,High,Buford
+947,Populated ,42,269,545,No,Good,Low,Buford
+948,Unpopulated,50,697,2428,No,Bad,Low,Buford
+949,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+950,Unpopulated,36,450,779,No,Bad,Low,Buford
+951,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+952,Populated ,80,691,4146,No,Good ,High,Buford
+953,Unpopulated,38,352,5413,No,Bad,Low,Buford
+954,Populated ,76,306,7996,No,Good,High,Buford
+955,Populated ,33,636,6516,No,Good,Low,Buford
+956,Unpopulated,31,552,2662,No,Good,Low,Buford
+957,Populated ,54,611,4707,No,Good,Low,Buford
+958,Unpopulated,43,224,8138,No,Bad,Low,Buford
+959,Populated ,36,389,4622,No,Good,Low,Buford
+960,Unpopulated,64,671,9158,No,Bad,Low,Buford
+961,Populated,34,36,1859,No,Good,Low,Philadelphia
+962,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+963,Populated,55,485,667,No,Bad,Low,Philadelphia
+964,Populated ,77,627,5985,yes,Good ,High,Buford
+965,Unpopulated,41,579,9072,No,Bad,Low,Buford
+966,Populated ,74,506,1158,No,Good,High,Buford
+967,Populated ,48,557,828,No,Good,Low,Buford
+968,Unpopulated,69,185,5532,No,Good,High,Buford
+969,Populated ,49,333,6343,No,Good,Low,Buford
+970,Unpopulated,34,147,9613,No,Bad,Low,Buford
+971,Populated ,42,680,2945,No,Good,Low,Buford
+972,Unpopulated,71,72,4847,No,Bad,High,Buford
+973,Populated,36,71,1037,No,Good,Low,Philadelphia
+974,Unpopulated,54,338,900,No,Bad,Low,Buford
+975,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+976,Populated ,46,358,340,No,Good ,Low,Buford
+977,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+978,Populated ,65,236,8885,No,Good,Low,Buford
+979,Populated ,68,263,8442,No,Good,Low,Buford
+980,Unpopulated,57,61,2372,No,Good,Low,Buford
+981,Populated ,57,674,3302,No,Good,Low,Buford
+982,Unpopulated,49,559,8583,No,Bad,Low,Buford
+983,Populated ,64,260,7887,No,Good,Low,Buford
+984,Unpopulated,44,315,8349,No,Bad,Low,Buford
+985,Populated,78,267,9813,No,Good,High,Philadelphia
+986,Unpopulated,58,57,1342,No,Bad,Low,Buford
+987,Populated,79,520,6497,No,Bad,High,Philadelphia
+988,Populated ,73,577,9347,Yes,Good ,High,Buford
+989,Unpopulated,33,484,7781,No,Bad,Low,Buford
+990,Populated ,40,174,7715,yes,Good,Low,Buford
+991,Populated ,61,8,6409,No,Good,Low,Buford
+992,Unpopulated,41,600,5072,No,Good,Low,Buford
+993,Populated ,53,60,3393,No,Good,Low,Buford
+994,Unpopulated,44,548,6087,No,Bad,Low,Buford
+995,Populated ,70,427,3681,No,Good ,High,Buford
+996,Unpopulated,31,515,5233,No,Bad,Low,Buford
+997,Populated ,58,565,2099,No,Good,Low,Buford
+998,Populated ,68,340,8626,No,Good,Low,Buford
+999,Unpopulated,67,210,6387,No,Good,Low,Buford
+1000,Populated ,35,284,2126,No,Good,Low,Buford
+1001,Unpopulated,75,98,211,No,Bad,High,Buford
+1002,Populated ,64,237,9295,No,Good,Low,Buford
+1003,Unpopulated,37,218,9194,No,Bad,Low,Buford
+1004,Populated,70,650,6063,No,Good,High,Philadelphia
+1005,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+1006,Populated,80,171,7722,No,Bad,High,Philadelphia
+1007,Populated ,36,324,6365,yes,Good ,Low,Buford
+1008,Unpopulated,80,387,2526,No,Bad,High,Buford
+1009,Populated ,62,662,7849,No,Good,Low,Buford
+1010,Populated ,39,589,5360,No,Good,Low,Buford
+1011,Unpopulated,53,567,8058,No,Good,Low,Buford
+1012,Populated ,32,574,37,No,Good,Low,Buford
+1013,Unpopulated,42,84,3774,No,Bad,Low,Buford
+1014,Populated ,31,698,5842,No,Good,Low,Buford
+1015,Unpopulated,57,689,8692,No,Bad,Low,Buford
+1016,Populated,49,608,4827,No,Good,Low,Philadelphia
+1017,Unpopulated,38,512,7858,No,Bad,Low,Buford
+1018,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+1019,Populated ,30,499,5267,No,Good ,Low,Buford
+1020,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+1021,Populated ,57,699,7789,No,Good,Low,Buford
+1022,Populated ,44,345,9475,No,Good,Low,Buford
+1023,Unpopulated,33,637,3895,No,Good,Low,Buford
+1024,Populated ,35,332,6512,No,Good,Low,Buford
+1025,Unpopulated,33,60,7218,No,Bad,Low,Buford
+1026,Populated ,50,107,9856,No,Good,Low,Buford
+1027,Unpopulated,73,359,1346,No,Bad,High,Buford
+1028,Populated,63,516,751,No,Good,Low,Philadelphia
+1029,Unpopulated,36,443,7647,No,Bad,Low,Buford
+1030,Populated,67,594,9833,No,Bad,Low,Philadelphia
+1031,Populated ,45,620,7898,Yes,Good ,Low,Buford
+1032,Unpopulated,33,10,5897,No,Bad,Low,Buford
+1033,Populated ,52,38,5437,yes,Good,Low,Buford
+1034,Populated ,43,310,1038,No,Good,Low,Buford
+1035,Unpopulated,42,526,3572,No,Good,Low,Buford
+1036,Populated ,79,195,3859,No,Good,High,Buford
+1037,Unpopulated,54,34,8049,No,Bad,Low,Buford
+1038,Populated ,69,90,8772,No,Good,High,Buford
+1039,Unpopulated,39,60,3385,No,Bad,Low,Buford
+1040,Populated,41,552,9992,No,Good,Low,Philadelphia
+1041,Unpopulated,58,567,1891,No,Bad,Low,Buford
+1042,Populated,80,87,508,No,Bad,High,Philadelphia
+1043,Populated ,69,580,280,No,Good ,High,Buford
+1044,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+1045,Populated ,51,223,559,No,Good,Low,Buford
+1046,Populated ,64,415,9551,yes,Good,Low,Buford
+1047,Unpopulated,30,148,7248,No,Good,Low,Buford
+1048,Populated ,36,429,5972,No,Good,Low,Buford
+1049,Unpopulated,56,64,9202,No,Bad,Low,Buford
+1050,Populated ,55,30,3894,No,Good,Low,Buford
+1051,Unpopulated,60,432,2793,No,Bad,Low,Buford
+1052,Populated,77,205,4113,No,Good,High,Philadelphia
+1053,Unpopulated,41,486,7861,No,Bad,Low,Buford
+1054,Populated,66,117,4364,No,Bad,Low,Philadelphia
+1055,Populated ,58,631,5966,No,Good ,Low,Buford
+1056,Unpopulated,60,607,5097,No,Bad,Low,Buford
+1057,Populated ,54,456,5161,Yes,Good,Low,Buford
+1058,Populated ,49,420,6938,No,Good,Low,Buford
+1059,Unpopulated,38,188,8417,yes,Good,Low,Buford
+1060,Populated ,60,679,9374,No,Good,Low,Buford
+1061,Unpopulated,38,159,737,No,Bad,Low,Buford
+1062,Populated ,77,311,4343,No,Good,High,Buford
+1063,Unpopulated,63,43,8312,No,Bad,Low,Buford
+1064,Populated,55,661,7247,No,Good,Low,Philadelphia
+1065,Unpopulated,65,348,1437,No,Bad,Low,Buford
+1066,Populated,64,414,4090,No,Bad,Low,Philadelphia
+1067,Populated ,33,334,6227,No,Good ,Low,Buford
+1068,Unpopulated,75,259,3924,No,Bad,High,Buford
+1069,Populated ,51,426,7409,No,Good,Low,Buford
+1070,Populated ,34,316,3769,Yes,Good,Low,Buford
+1071,Unpopulated,31,175,1688,No,Good,Low,Buford
+1072,Populated ,53,184,1993,yes,Good,Low,Buford
+1073,Unpopulated,51,641,1414,No,Bad,Low,Buford
+1074,Populated ,40,11,4643,No,Good,Low,Buford
+1075,Unpopulated,78,600,2409,No,Bad,High,Buford
+1076,Populated,62,51,8729,No,Good,Low,Philadelphia
+1077,Unpopulated,30,187,8174,No,Bad,Low,Buford
+1078,Populated,75,342,3712,No,Bad,High,Philadelphia
+1079,Populated ,80,43,693,No,Good ,High,Buford
+1080,Unpopulated,30,567,6485,No,Bad,Low,Buford
+1081,Populated ,33,400,9471,No,Good,Low,Buford
+1082,Populated ,66,425,258,No,Good,Low,Buford
+1083,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+1084,Populated ,54,355,6290,No,Good,Low,Buford
+1085,Unpopulated,36,44,291,yes,Bad,Low,Buford
+1086,Populated ,37,484,6271,No,Good,Low,Buford
+1087,Unpopulated,65,286,8617,No,Bad,Low,Buford
+1088,Populated,65,519,8192,No,Good,Low,Philadelphia
+1089,Unpopulated,35,664,38,No,Bad,Low,Buford
+1090,Populated,67,488,10,No,Bad,Low,Philadelphia
+1091,Populated ,57,639,4535,No,Good ,Low,Buford
+1092,Unpopulated,56,521,1780,No,Bad,Low,Buford
+1093,Populated ,30,532,1284,No,Good,Low,Buford
+1094,Populated ,56,678,5472,No,Good,Low,Buford
+1095,Unpopulated,80,680,8662,No,Good,High,Buford
+1096,Populated ,75,115,3812,Yes,Good,High,Buford
+1097,Unpopulated,76,265,3652,No,Bad,High,Buford
+1098,Populated ,53,153,4951,yes,Good,Low,Buford
+1099,Unpopulated,69,364,6825,No,Bad,High,Buford
+1100,Populated,41,494,2745,No,Good,Low,Philadelphia
+1101,Unpopulated,53,354,7427,No,Bad,Low,Buford
+1102,Populated,79,177,4568,No,Bad,High,Philadelphia
+1103,Populated ,57,452,3814,No,Good ,Low,Buford
+1104,Unpopulated,69,14,7930,No,Bad,High,Buford
+1105,Populated ,31,513,9296,No,Good,Low,Buford
+1106,Populated ,47,637,8700,No,Good,Low,Buford
+1107,Unpopulated,43,52,5758,No,Good,Low,Buford
+1108,Populated ,72,686,6182,No,Good,High,Buford
+1109,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+1110,Populated ,41,62,9997,No,Good,Low,Buford
+1111,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+1112,Populated,48,198,6681,No,Good,Low,Philadelphia
+1113,Unpopulated,37,244,7702,No,Bad,Low,Buford
+1114,Populated,36,271,1027,No,Bad,Low,Philadelphia
+1115,Populated ,49,225,3615,No,Good ,Low,Buford
+1116,Unpopulated,47,476,8085,No,Bad,Low,Buford
+1117,Populated ,38,241,9918,No,Good,Low,Buford
+1118,Populated ,75,315,2719,No,Good,High,Buford
+1119,Unpopulated,60,255,8848,No,Good,Low,Buford
+1120,Populated ,63,596,1703,No,Good,Low,Buford
+1121,Unpopulated,71,254,9947,No,Bad,High,Buford
+1122,Populated ,64,174,4919,Yes,Good,Low,Buford
+1123,Unpopulated,73,547,6754,No,Bad,High,Buford
+1124,Populated,46,524,3896,yes,Good,Low,Philadelphia
+1125,Unpopulated,63,164,631,No,Bad,Low,Buford
+1126,Populated,43,175,3645,No,Bad,Low,Philadelphia
+1127,Populated ,51,149,5179,No,Good ,Low,Buford
+1128,Unpopulated,63,227,2516,No,Bad,Low,Buford
+1129,Populated ,69,63,6807,No,Good,High,Buford
+1130,Populated ,46,675,8178,No,Good,Low,Buford
+1131,Unpopulated,70,194,2932,No,Good,High,Buford
+1132,Populated ,62,520,8144,No,Good,Low,Buford
+1133,Unpopulated,68,494,2588,No,Bad,Low,Buford
+1134,Populated ,42,134,739,No,Good,Low,Buford
+1135,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+1136,Populated,80,674,8501,No,Good,High,Philadelphia
+1137,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+1138,Populated,33,698,4598,No,Bad,Low,Philadelphia
+1139,Populated ,80,152,8178,No,Good ,High,Buford
+1140,Unpopulated,32,145,8296,No,Bad,Low,Buford
+1141,Populated ,31,465,5759,No,Good,Low,Buford
+1142,Populated ,68,16,1085,No,Good,Low,Buford
+1143,Unpopulated,75,543,4713,No,Good,High,Buford
+1144,Populated ,44,528,5697,No,Good,Low,Buford
+1145,Unpopulated,73,608,1601,No,Bad,High,Buford
+1146,Populated ,42,269,545,No,Good,Low,Buford
+1147,Unpopulated,50,697,2428,No,Bad,Low,Buford
+1148,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+1149,Unpopulated,36,450,779,No,Bad,Low,Buford
+1150,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+1151,Populated ,80,691,4146,No,Good ,High,Buford
+1152,Unpopulated,38,352,5413,No,Bad,Low,Buford
+1153,Populated ,76,306,7996,No,Good,High,Buford
+1154,Populated ,33,636,6516,No,Good,Low,Buford
+1155,Unpopulated,31,552,2662,No,Good,Low,Buford
+1156,Populated ,54,611,4707,No,Good,Low,Buford
+1157,Unpopulated,43,224,8138,No,Bad,Low,Buford
+1158,Populated ,36,389,4622,No,Good,Low,Buford
+1159,Unpopulated,64,671,9158,No,Bad,Low,Buford
+1160,Populated,34,36,1859,No,Good,Low,Philadelphia
+1161,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+1162,Populated,55,485,667,No,Bad,Low,Philadelphia
+1163,Populated ,77,627,5985,yes,Good ,High,Buford
+1164,Unpopulated,41,579,9072,No,Bad,Low,Buford
+1165,Populated ,74,506,1158,No,Good,High,Buford
+1166,Populated ,48,557,828,No,Good,Low,Buford
+1167,Unpopulated,69,185,5532,No,Good,High,Buford
+1168,Populated ,49,333,6343,No,Good,Low,Buford
+1169,Unpopulated,34,147,9613,No,Bad,Low,Buford
+1170,Populated ,42,680,2945,No,Good,Low,Buford
+1171,Unpopulated,71,72,4847,No,Bad,High,Buford
+1172,Populated,36,71,1037,No,Good,Low,Philadelphia
+1173,Unpopulated,54,338,900,No,Bad,Low,Buford
+1174,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+1175,Populated ,46,358,340,No,Good ,Low,Buford
+1176,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+1177,Populated ,65,236,8885,No,Good,Low,Buford
+1178,Populated ,68,263,8442,No,Good,Low,Buford
+1179,Unpopulated,57,61,2372,No,Good,Low,Buford
+1180,Populated ,57,674,3302,No,Good,Low,Buford
+1181,Unpopulated,49,559,8583,No,Bad,Low,Buford
+1182,Populated ,64,260,7887,No,Good,Low,Buford
+1183,Unpopulated,44,315,8349,No,Bad,Low,Buford
+1184,Populated,78,267,9813,No,Good,High,Philadelphia
+1185,Unpopulated,58,57,1342,No,Bad,Low,Buford
+1186,Populated,79,520,6497,No,Bad,High,Philadelphia
+1187,Populated ,73,577,9347,Yes,Good ,High,Buford
+1188,Unpopulated,33,484,7781,No,Bad,Low,Buford
+1189,Populated ,40,174,7715,yes,Good,Low,Buford
+1190,Populated ,61,8,6409,No,Good,Low,Buford
+1191,Unpopulated,41,600,5072,No,Good,Low,Buford
+1192,Populated ,53,60,3393,No,Good,Low,Buford
+1193,Unpopulated,44,548,6087,No,Bad,Low,Buford
+1194,Populated ,70,427,3681,No,Good ,High,Buford
+1195,Unpopulated,31,515,5233,No,Bad,Low,Buford
+1196,Populated ,58,565,2099,No,Good,Low,Buford
+1197,Populated ,68,340,8626,No,Good,Low,Buford
+1198,Unpopulated,67,210,6387,No,Good,Low,Buford
+1199,Populated ,35,284,2126,No,Good,Low,Buford
+1200,Unpopulated,75,98,211,No,Bad,High,Buford
+1201,Populated ,64,237,9295,No,Good,Low,Buford
+1202,Unpopulated,37,218,9194,No,Bad,Low,Buford
+1203,Populated,70,650,6063,No,Good,High,Philadelphia
+1204,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+1205,Populated,80,171,7722,No,Bad,High,Philadelphia
+1206,Populated ,36,324,6365,yes,Good ,Low,Buford
+1207,Unpopulated,80,387,2526,No,Bad,High,Buford
+1208,Populated ,62,662,7849,No,Good,Low,Buford
+1209,Populated ,39,589,5360,No,Good,Low,Buford
+1210,Unpopulated,53,567,8058,No,Good,Low,Buford
+1211,Populated ,32,574,37,No,Good,Low,Buford
+1212,Unpopulated,42,84,3774,No,Bad,Low,Buford
+1213,Populated ,31,698,5842,No,Good,Low,Buford
+1214,Unpopulated,57,689,8692,No,Bad,Low,Buford
+1215,Populated,49,608,4827,No,Good,Low,Philadelphia
+1216,Unpopulated,38,512,7858,No,Bad,Low,Buford
+1217,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+1218,Populated ,30,499,5267,No,Good ,Low,Buford
+1219,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+1220,Populated ,57,699,7789,No,Good,Low,Buford
+1221,Populated ,44,345,9475,No,Good,Low,Buford
+1222,Unpopulated,33,637,3895,No,Good,Low,Buford
+1223,Populated ,35,332,6512,No,Good,Low,Buford
+1224,Unpopulated,33,60,7218,No,Bad,Low,Buford
+1225,Populated ,50,107,9856,No,Good,Low,Buford
+1226,Unpopulated,73,359,1346,No,Bad,High,Buford
+1227,Populated,63,516,751,No,Good,Low,Philadelphia
+1228,Unpopulated,36,443,7647,No,Bad,Low,Buford
+1229,Populated,67,594,9833,No,Bad,Low,Philadelphia
+1230,Populated ,45,620,7898,Yes,Good ,Low,Buford
+1231,Unpopulated,33,10,5897,No,Bad,Low,Buford
+1232,Populated ,52,38,5437,yes,Good,Low,Buford
+1233,Populated ,43,310,1038,No,Good,Low,Buford
+1234,Unpopulated,42,526,3572,No,Good,Low,Buford
+1235,Populated ,79,195,3859,No,Good,High,Buford
+1236,Unpopulated,54,34,8049,No,Bad,Low,Buford
+1237,Populated ,69,90,8772,No,Good,High,Buford
+1238,Unpopulated,39,60,3385,No,Bad,Low,Buford
+1239,Populated,41,552,9992,No,Good,Low,Philadelphia
+1240,Unpopulated,58,567,1891,No,Bad,Low,Buford
+1241,Populated,80,87,508,No,Bad,High,Philadelphia
+1242,Populated ,69,580,280,No,Good ,High,Buford
+1243,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+1244,Populated ,51,223,559,No,Good,Low,Buford
+1245,Populated ,64,415,9551,yes,Good,Low,Buford
+1246,Unpopulated,30,148,7248,No,Good,Low,Buford
+1247,Populated ,36,429,5972,No,Good,Low,Buford
+1248,Unpopulated,56,64,9202,No,Bad,Low,Buford
+1249,Populated ,55,30,3894,No,Good,Low,Buford
+1250,Unpopulated,60,432,2793,No,Bad,Low,Buford
+1251,Populated,77,205,4113,No,Good,High,Philadelphia
+1252,Unpopulated,41,486,7861,No,Bad,Low,Buford
+1253,Populated,66,117,4364,No,Bad,Low,Philadelphia
+1254,Populated ,58,631,5966,No,Good ,Low,Buford
+1255,Unpopulated,60,607,5097,No,Bad,Low,Buford
+1256,Populated ,54,456,5161,Yes,Good,Low,Buford
+1257,Populated ,49,420,6938,No,Good,Low,Buford
+1258,Unpopulated,38,188,8417,yes,Good,Low,Buford
+1259,Populated ,60,679,9374,No,Good,Low,Buford
+1260,Unpopulated,38,159,737,No,Bad,Low,Buford
+1261,Populated ,77,311,4343,No,Good,High,Buford
+1262,Unpopulated,63,43,8312,No,Bad,Low,Buford
+1263,Populated,55,661,7247,No,Good,Low,Philadelphia
+1264,Unpopulated,65,348,1437,No,Bad,Low,Buford
+1265,Populated,64,414,4090,No,Bad,Low,Philadelphia
+1266,Populated ,33,334,6227,No,Good ,Low,Buford
+1267,Unpopulated,75,259,3924,No,Bad,High,Buford
+1268,Populated ,51,426,7409,No,Good,Low,Buford
+1269,Populated ,34,316,3769,Yes,Good,Low,Buford
+1270,Unpopulated,31,175,1688,No,Good,Low,Buford
+1271,Populated ,53,184,1993,yes,Good,Low,Buford
+1272,Unpopulated,51,641,1414,No,Bad,Low,Buford
+1273,Populated ,40,11,4643,No,Good,Low,Buford
+1274,Unpopulated,78,600,2409,No,Bad,High,Buford
+1275,Populated,62,51,8729,No,Good,Low,Philadelphia
+1276,Unpopulated,30,187,8174,No,Bad,Low,Buford
+1277,Populated,75,342,3712,No,Bad,High,Philadelphia
+1278,Populated ,80,43,693,No,Good ,High,Buford
+1279,Unpopulated,30,567,6485,No,Bad,Low,Buford
+1280,Populated ,33,400,9471,No,Good,Low,Buford
+1281,Populated ,66,425,258,No,Good,Low,Buford
+1282,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+1283,Populated ,54,355,6290,No,Good,Low,Buford
+1284,Unpopulated,36,44,291,yes,Bad,Low,Buford
+1285,Populated ,37,484,6271,No,Good,Low,Buford
+1286,Unpopulated,65,286,8617,No,Bad,Low,Buford
+1287,Populated,65,519,8192,No,Good,Low,Philadelphia
+1288,Unpopulated,35,664,38,No,Bad,Low,Buford
+1289,Populated,67,488,10,No,Bad,Low,Philadelphia
+1290,Populated ,57,639,4535,No,Good ,Low,Buford
+1291,Unpopulated,56,521,1780,No,Bad,Low,Buford
+1292,Populated ,30,532,1284,No,Good,Low,Buford
+1293,Populated ,56,678,5472,No,Good,Low,Buford
+1294,Unpopulated,80,680,8662,No,Good,High,Buford
+1295,Populated ,75,115,3812,Yes,Good,High,Buford
+1296,Unpopulated,76,265,3652,No,Bad,High,Buford
+1297,Populated ,53,153,4951,yes,Good,Low,Buford
+1298,Unpopulated,69,364,6825,No,Bad,High,Buford
+1299,Populated,41,494,2745,No,Good,Low,Philadelphia
+1300,Unpopulated,53,354,7427,No,Bad,Low,Buford
+1301,Populated,79,177,4568,No,Bad,High,Philadelphia
+1302,Populated ,57,452,3814,No,Good ,Low,Buford
+1303,Unpopulated,69,14,7930,No,Bad,High,Buford
+1304,Populated ,31,513,9296,No,Good,Low,Buford
+1305,Populated ,47,637,8700,No,Good,Low,Buford
+1306,Unpopulated,43,52,5758,No,Good,Low,Buford
+1307,Populated ,72,686,6182,No,Good,High,Buford
+1308,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+1309,Populated ,41,62,9997,No,Good,Low,Buford
+1310,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+1311,Populated,48,198,6681,No,Good,Low,Philadelphia
+1312,Unpopulated,37,244,7702,No,Bad,Low,Buford
+1313,Populated,36,271,1027,No,Bad,Low,Philadelphia
+1314,Populated ,49,225,3615,No,Good ,Low,Buford
+1315,Unpopulated,47,476,8085,No,Bad,Low,Buford
+1316,Populated ,38,241,9918,No,Good,Low,Buford
+1317,Populated ,75,315,2719,No,Good,High,Buford
+1318,Unpopulated,60,255,8848,No,Good,Low,Buford
+1319,Populated ,63,596,1703,No,Good,Low,Buford
+1320,Unpopulated,71,254,9947,No,Bad,High,Buford
+1321,Populated ,64,174,4919,Yes,Good,Low,Buford
+1322,Unpopulated,73,547,6754,No,Bad,High,Buford
+1323,Populated,46,524,3896,yes,Good,Low,Philadelphia
+1324,Unpopulated,63,164,631,No,Bad,Low,Buford
+1325,Populated,43,175,3645,No,Bad,Low,Philadelphia
+1326,Populated ,51,149,5179,No,Good ,Low,Buford
+1327,Unpopulated,63,227,2516,No,Bad,Low,Buford
+1328,Populated ,69,63,6807,No,Good,High,Buford
+1329,Populated ,46,675,8178,No,Good,Low,Buford
+1330,Unpopulated,70,194,2932,No,Good,High,Buford
+1331,Populated ,62,520,8144,No,Good,Low,Buford
+1332,Unpopulated,68,494,2588,No,Bad,Low,Buford
+1333,Populated ,42,134,739,No,Good,Low,Buford
+1334,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+1335,Populated,80,674,8501,No,Good,High,Philadelphia
+1336,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+1337,Populated,33,698,4598,No,Bad,Low,Philadelphia
+1338,Populated ,80,152,8178,No,Good ,High,Buford
+1339,Unpopulated,32,145,8296,No,Bad,Low,Buford
+1340,Populated ,31,465,5759,No,Good,Low,Buford
+1341,Populated ,68,16,1085,No,Good,Low,Buford
+1342,Unpopulated,75,543,4713,No,Good,High,Buford
+1343,Populated ,44,528,5697,No,Good,Low,Buford
+1344,Unpopulated,73,608,1601,No,Bad,High,Buford
+1345,Populated ,42,269,545,No,Good,Low,Buford
+1346,Unpopulated,50,697,2428,No,Bad,Low,Buford
+1347,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+1348,Unpopulated,36,450,779,No,Bad,Low,Buford
+1349,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+1350,Populated ,80,691,4146,No,Good ,High,Buford
+1351,Unpopulated,38,352,5413,No,Bad,Low,Buford
+1352,Populated ,76,306,7996,No,Good,High,Buford
+1353,Populated ,33,636,6516,No,Good,Low,Buford
+1354,Unpopulated,31,552,2662,No,Good,Low,Buford
+1355,Populated ,54,611,4707,No,Good,Low,Buford
+1356,Unpopulated,43,224,8138,No,Bad,Low,Buford
+1357,Populated ,36,389,4622,No,Good,Low,Buford
+1358,Unpopulated,64,671,9158,No,Bad,Low,Buford
+1359,Populated,34,36,1859,No,Good,Low,Philadelphia
+1360,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+1361,Populated,55,485,667,No,Bad,Low,Philadelphia
+1362,Populated ,77,627,5985,yes,Good ,High,Buford
+1363,Unpopulated,41,579,9072,No,Bad,Low,Buford
+1364,Populated ,74,506,1158,No,Good,High,Buford
+1365,Populated ,48,557,828,No,Good,Low,Buford
+1366,Unpopulated,69,185,5532,No,Good,High,Buford
+1367,Populated ,49,333,6343,No,Good,Low,Buford
+1368,Unpopulated,34,147,9613,No,Bad,Low,Buford
+1369,Populated ,42,680,2945,No,Good,Low,Buford
+1370,Unpopulated,71,72,4847,No,Bad,High,Buford
+1371,Populated,36,71,1037,No,Good,Low,Philadelphia
+1372,Unpopulated,54,338,900,No,Bad,Low,Buford
+1373,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+1374,Populated ,46,358,340,No,Good ,Low,Buford
+1375,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+1376,Populated ,65,236,8885,No,Good,Low,Buford
+1377,Populated ,68,263,8442,No,Good,Low,Buford
+1378,Unpopulated,57,61,2372,No,Good,Low,Buford
+1379,Populated ,57,674,3302,No,Good,Low,Buford
+1380,Unpopulated,49,559,8583,No,Bad,Low,Buford
+1381,Populated ,64,260,7887,No,Good,Low,Buford
+1382,Unpopulated,44,315,8349,No,Bad,Low,Buford
+1383,Populated,78,267,9813,No,Good,High,Philadelphia
+1384,Unpopulated,58,57,1342,No,Bad,Low,Buford
+1385,Populated,79,520,6497,No,Bad,High,Philadelphia
+1386,Populated ,73,577,9347,Yes,Good ,High,Buford
+1387,Unpopulated,33,484,7781,No,Bad,Low,Buford
+1388,Populated ,40,174,7715,yes,Good,Low,Buford
+1389,Populated ,61,8,6409,No,Good,Low,Buford
+1390,Unpopulated,41,600,5072,No,Good,Low,Buford
+1391,Populated ,53,60,3393,No,Good,Low,Buford
+1392,Unpopulated,44,548,6087,No,Bad,Low,Buford
+1393,Populated ,70,427,3681,No,Good ,High,Buford
+1394,Unpopulated,31,515,5233,No,Bad,Low,Buford
+1395,Populated ,58,565,2099,No,Good,Low,Buford
+1396,Populated ,68,340,8626,No,Good,Low,Buford
+1397,Unpopulated,67,210,6387,No,Good,Low,Buford
+1398,Populated ,35,284,2126,No,Good,Low,Buford
+1399,Unpopulated,75,98,211,No,Bad,High,Buford
+1400,Populated ,64,237,9295,No,Good,Low,Buford
+1401,Unpopulated,37,218,9194,No,Bad,Low,Buford
+1402,Populated,70,650,6063,No,Good,High,Philadelphia
+1403,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+1404,Populated,80,171,7722,No,Bad,High,Philadelphia
+1405,Populated ,36,324,6365,yes,Good ,Low,Buford
+1406,Unpopulated,80,387,2526,No,Bad,High,Buford
+1407,Populated ,62,662,7849,No,Good,Low,Buford
+1408,Populated ,39,589,5360,No,Good,Low,Buford
+1409,Unpopulated,53,567,8058,No,Good,Low,Buford
+1410,Populated ,32,574,37,No,Good,Low,Buford
+1411,Unpopulated,42,84,3774,No,Bad,Low,Buford
+1412,Populated ,31,698,5842,No,Good,Low,Buford
+1413,Unpopulated,57,689,8692,No,Bad,Low,Buford
+1414,Populated,49,608,4827,No,Good,Low,Philadelphia
+1415,Unpopulated,38,512,7858,No,Bad,Low,Buford
+1416,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+1417,Populated ,30,499,5267,No,Good ,Low,Buford
+1418,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+1419,Populated ,57,699,7789,No,Good,Low,Buford
+1420,Populated ,44,345,9475,No,Good,Low,Buford
+1421,Unpopulated,33,637,3895,No,Good,Low,Buford
+1422,Populated ,35,332,6512,No,Good,Low,Buford
+1423,Unpopulated,33,60,7218,No,Bad,Low,Buford
+1424,Populated ,50,107,9856,No,Good,Low,Buford
+1425,Unpopulated,73,359,1346,No,Bad,High,Buford
+1426,Populated,63,516,751,No,Good,Low,Philadelphia
+1427,Unpopulated,36,443,7647,No,Bad,Low,Buford
+1428,Populated,67,594,9833,No,Bad,Low,Philadelphia
+1429,Populated ,45,620,7898,Yes,Good ,Low,Buford
+1430,Unpopulated,33,10,5897,No,Bad,Low,Buford
+1431,Populated ,52,38,5437,yes,Good,Low,Buford
+1432,Populated ,43,310,1038,No,Good,Low,Buford
+1433,Unpopulated,42,526,3572,No,Good,Low,Buford
+1434,Populated ,79,195,3859,No,Good,High,Buford
+1435,Unpopulated,54,34,8049,No,Bad,Low,Buford
+1436,Populated ,69,90,8772,No,Good,High,Buford
+1437,Unpopulated,39,60,3385,No,Bad,Low,Buford
+1438,Populated,41,552,9992,No,Good,Low,Philadelphia
+1439,Unpopulated,58,567,1891,No,Bad,Low,Buford
+1440,Populated,80,87,508,No,Bad,High,Philadelphia
+1441,Populated ,69,580,280,No,Good ,High,Buford
+1442,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+1443,Populated ,51,223,559,No,Good,Low,Buford
+1444,Populated ,64,415,9551,yes,Good,Low,Buford
+1445,Unpopulated,30,148,7248,No,Good,Low,Buford
+1446,Populated ,36,429,5972,No,Good,Low,Buford
+1447,Unpopulated,56,64,9202,No,Bad,Low,Buford
+1448,Populated ,55,30,3894,No,Good,Low,Buford
+1449,Unpopulated,60,432,2793,No,Bad,Low,Buford
+1450,Populated,77,205,4113,No,Good,High,Philadelphia
+1451,Unpopulated,41,486,7861,No,Bad,Low,Buford
+1452,Populated,66,117,4364,No,Bad,Low,Philadelphia
+1453,Populated ,58,631,5966,No,Good ,Low,Buford
+1454,Unpopulated,60,607,5097,No,Bad,Low,Buford
+1455,Populated ,54,456,5161,Yes,Good,Low,Buford
+1456,Populated ,49,420,6938,No,Good,Low,Buford
+1457,Unpopulated,38,188,8417,yes,Good,Low,Buford
+1458,Populated ,60,679,9374,No,Good,Low,Buford
+1459,Unpopulated,38,159,737,No,Bad,Low,Buford
+1460,Populated ,77,311,4343,No,Good,High,Buford
+1461,Unpopulated,63,43,8312,No,Bad,Low,Buford
+1462,Populated,55,661,7247,No,Good,Low,Philadelphia
+1463,Unpopulated,65,348,1437,No,Bad,Low,Buford
+1464,Populated,64,414,4090,No,Bad,Low,Philadelphia
+1465,Populated ,33,334,6227,No,Good ,Low,Buford
+1466,Unpopulated,75,259,3924,No,Bad,High,Buford
+1467,Populated ,51,426,7409,No,Good,Low,Buford
+1468,Populated ,34,316,3769,Yes,Good,Low,Buford
+1469,Unpopulated,31,175,1688,No,Good,Low,Buford
+1470,Populated ,53,184,1993,yes,Good,Low,Buford
+1471,Unpopulated,51,641,1414,No,Bad,Low,Buford
+1472,Populated ,40,11,4643,No,Good,Low,Buford
+1473,Unpopulated,78,600,2409,No,Bad,High,Buford
+1474,Populated,62,51,8729,No,Good,Low,Philadelphia
+1475,Unpopulated,30,187,8174,No,Bad,Low,Buford
+1476,Populated,75,342,3712,No,Bad,High,Philadelphia
+1477,Populated ,80,43,693,No,Good ,High,Buford
+1478,Unpopulated,30,567,6485,No,Bad,Low,Buford
+1479,Populated ,33,400,9471,No,Good,Low,Buford
+1480,Populated ,66,425,258,No,Good,Low,Buford
+1481,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+1482,Populated ,54,355,6290,No,Good,Low,Buford
+1483,Unpopulated,36,44,291,yes,Bad,Low,Buford
+1484,Populated ,37,484,6271,No,Good,Low,Buford
+1485,Unpopulated,65,286,8617,No,Bad,Low,Buford
+1486,Populated,65,519,8192,No,Good,Low,Philadelphia
+1487,Unpopulated,35,664,38,No,Bad,Low,Buford
+1488,Populated,67,488,10,No,Bad,Low,Philadelphia
+1489,Populated ,57,639,4535,No,Good ,Low,Buford
+1490,Unpopulated,56,521,1780,No,Bad,Low,Buford
+1491,Populated ,30,532,1284,No,Good,Low,Buford
+1492,Populated ,56,678,5472,No,Good,Low,Buford
+1493,Unpopulated,80,680,8662,No,Good,High,Buford
+1494,Populated ,75,115,3812,Yes,Good,High,Buford
+1495,Unpopulated,76,265,3652,No,Bad,High,Buford
+1496,Populated ,53,153,4951,yes,Good,Low,Buford
+1497,Unpopulated,69,364,6825,No,Bad,High,Buford
+1498,Populated,41,494,2745,No,Good,Low,Philadelphia
+1499,Unpopulated,53,354,7427,No,Bad,Low,Buford
+1500,Populated,79,177,4568,No,Bad,High,Philadelphia
+1501,Populated ,57,452,3814,No,Good ,Low,Buford
+1502,Unpopulated,69,14,7930,No,Bad,High,Buford
+1503,Populated ,31,513,9296,No,Good,Low,Buford
+1504,Populated ,47,637,8700,No,Good,Low,Buford
+1505,Unpopulated,43,52,5758,No,Good,Low,Buford
+1506,Populated ,72,686,6182,No,Good,High,Buford
+1507,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+1508,Populated ,41,62,9997,No,Good,Low,Buford
+1509,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+1510,Populated,48,198,6681,No,Good,Low,Philadelphia
+1511,Unpopulated,37,244,7702,No,Bad,Low,Buford
+1512,Populated,36,271,1027,No,Bad,Low,Philadelphia
+1513,Populated ,49,225,3615,No,Good ,Low,Buford
+1514,Unpopulated,47,476,8085,No,Bad,Low,Buford
+1515,Populated ,38,241,9918,No,Good,Low,Buford
+1516,Populated ,75,315,2719,No,Good,High,Buford
+1517,Unpopulated,60,255,8848,No,Good,Low,Buford
+1518,Populated ,63,596,1703,No,Good,Low,Buford
+1519,Unpopulated,71,254,9947,No,Bad,High,Buford
+1520,Populated ,64,174,4919,Yes,Good,Low,Buford
+1521,Unpopulated,73,547,6754,No,Bad,High,Buford
+1522,Populated,46,524,3896,yes,Good,Low,Philadelphia
+1523,Unpopulated,63,164,631,No,Bad,Low,Buford
+1524,Populated,43,175,3645,No,Bad,Low,Philadelphia
+1525,Populated ,51,149,5179,No,Good ,Low,Buford
+1526,Unpopulated,63,227,2516,No,Bad,Low,Buford
+1527,Populated ,69,63,6807,No,Good,High,Buford
+1528,Populated ,46,675,8178,No,Good,Low,Buford
+1529,Unpopulated,70,194,2932,No,Good,High,Buford
+1530,Populated ,62,520,8144,No,Good,Low,Buford
+1531,Unpopulated,68,494,2588,No,Bad,Low,Buford
+1532,Populated ,42,134,739,No,Good,Low,Buford
+1533,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+1534,Populated,80,674,8501,No,Good,High,Philadelphia
+1535,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+1536,Populated,33,698,4598,No,Bad,Low,Philadelphia
+1537,Populated ,80,152,8178,No,Good ,High,Buford
+1538,Unpopulated,32,145,8296,No,Bad,Low,Buford
+1539,Populated ,31,465,5759,No,Good,Low,Buford
+1540,Populated ,68,16,1085,No,Good,Low,Buford
+1541,Unpopulated,75,543,4713,No,Good,High,Buford
+1542,Populated ,44,528,5697,No,Good,Low,Buford
+1543,Unpopulated,73,608,1601,No,Bad,High,Buford
+1544,Populated ,42,269,545,No,Good,Low,Buford
+1545,Unpopulated,50,697,2428,No,Bad,Low,Buford
+1546,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+1547,Unpopulated,36,450,779,No,Bad,Low,Buford
+1548,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+1549,Populated ,80,691,4146,No,Good ,High,Buford
+1550,Unpopulated,38,352,5413,No,Bad,Low,Buford
+1551,Populated ,76,306,7996,No,Good,High,Buford
+1552,Populated ,33,636,6516,No,Good,Low,Buford
+1553,Unpopulated,31,552,2662,No,Good,Low,Buford
+1554,Populated ,54,611,4707,No,Good,Low,Buford
+1555,Unpopulated,43,224,8138,No,Bad,Low,Buford
+1556,Populated ,36,389,4622,No,Good,Low,Buford
+1557,Unpopulated,64,671,9158,No,Bad,Low,Buford
+1558,Populated,34,36,1859,No,Good,Low,Philadelphia
+1559,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+1560,Populated,55,485,667,No,Bad,Low,Philadelphia
+1561,Populated ,77,627,5985,yes,Good ,High,Buford
+1562,Unpopulated,41,579,9072,No,Bad,Low,Buford
+1563,Populated ,74,506,1158,No,Good,High,Buford
+1564,Populated ,48,557,828,No,Good,Low,Buford
+1565,Unpopulated,69,185,5532,No,Good,High,Buford
+1566,Populated ,49,333,6343,No,Good,Low,Buford
+1567,Unpopulated,34,147,9613,No,Bad,Low,Buford
+1568,Populated ,42,680,2945,No,Good,Low,Buford
+1569,Unpopulated,71,72,4847,No,Bad,High,Buford
+1570,Populated,36,71,1037,No,Good,Low,Philadelphia
+1571,Unpopulated,54,338,900,No,Bad,Low,Buford
+1572,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+1573,Populated ,46,358,340,No,Good ,Low,Buford
+1574,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+1575,Populated ,65,236,8885,No,Good,Low,Buford
+1576,Populated ,68,263,8442,No,Good,Low,Buford
+1577,Unpopulated,57,61,2372,No,Good,Low,Buford
+1578,Populated ,57,674,3302,No,Good,Low,Buford
+1579,Unpopulated,49,559,8583,No,Bad,Low,Buford
+1580,Populated ,64,260,7887,No,Good,Low,Buford
+1581,Unpopulated,44,315,8349,No,Bad,Low,Buford
+1582,Populated,78,267,9813,No,Good,High,Philadelphia
+1583,Unpopulated,58,57,1342,No,Bad,Low,Buford
+1584,Populated,79,520,6497,No,Bad,High,Philadelphia
+1585,Populated ,73,577,9347,Yes,Good ,High,Buford
+1586,Unpopulated,33,484,7781,No,Bad,Low,Buford
+1587,Populated ,40,174,7715,yes,Good,Low,Buford
+1588,Populated ,61,8,6409,No,Good,Low,Buford
+1589,Unpopulated,41,600,5072,No,Good,Low,Buford
+1590,Populated ,53,60,3393,No,Good,Low,Buford
+1591,Unpopulated,44,548,6087,No,Bad,Low,Buford
+1592,Populated ,70,427,3681,No,Good ,High,Buford
+1593,Unpopulated,31,515,5233,No,Bad,Low,Buford
+1594,Populated ,58,565,2099,No,Good,Low,Buford
+1595,Populated ,68,340,8626,No,Good,Low,Buford
+1596,Unpopulated,67,210,6387,No,Good,Low,Buford
+1597,Populated ,35,284,2126,No,Good,Low,Buford
+1598,Unpopulated,75,98,211,No,Bad,High,Buford
+1599,Populated ,64,237,9295,No,Good,Low,Buford
+1600,Unpopulated,37,218,9194,No,Bad,Low,Buford
+1601,Populated,70,650,6063,No,Good,High,Philadelphia
+1602,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+1603,Populated,80,171,7722,No,Bad,High,Philadelphia
+1604,Populated ,36,324,6365,yes,Good ,Low,Buford
+1605,Unpopulated,80,387,2526,No,Bad,High,Buford
+1606,Populated ,62,662,7849,No,Good,Low,Buford
+1607,Populated ,39,589,5360,No,Good,Low,Buford
+1608,Unpopulated,53,567,8058,No,Good,Low,Buford
+1609,Populated ,32,574,37,No,Good,Low,Buford
+1610,Unpopulated,42,84,3774,No,Bad,Low,Buford
+1611,Populated ,31,698,5842,No,Good,Low,Buford
+1612,Unpopulated,57,689,8692,No,Bad,Low,Buford
+1613,Populated,49,608,4827,No,Good,Low,Philadelphia
+1614,Unpopulated,38,512,7858,No,Bad,Low,Buford
+1615,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+1616,Populated ,30,499,5267,No,Good ,Low,Buford
+1617,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+1618,Populated ,57,699,7789,No,Good,Low,Buford
+1619,Populated ,44,345,9475,No,Good,Low,Buford
+1620,Unpopulated,33,637,3895,No,Good,Low,Buford
+1621,Populated ,35,332,6512,No,Good,Low,Buford
+1622,Unpopulated,33,60,7218,No,Bad,Low,Buford
+1623,Populated ,50,107,9856,No,Good,Low,Buford
+1624,Unpopulated,73,359,1346,No,Bad,High,Buford
+1625,Populated,63,516,751,No,Good,Low,Philadelphia
+1626,Unpopulated,36,443,7647,No,Bad,Low,Buford
+1627,Populated,67,594,9833,No,Bad,Low,Philadelphia
+1628,Populated ,45,620,7898,Yes,Good ,Low,Buford
+1629,Unpopulated,33,10,5897,No,Bad,Low,Buford
+1630,Populated ,52,38,5437,yes,Good,Low,Buford
+1631,Populated ,43,310,1038,No,Good,Low,Buford
+1632,Unpopulated,42,526,3572,No,Good,Low,Buford
+1633,Populated ,79,195,3859,No,Good,High,Buford
+1634,Unpopulated,54,34,8049,No,Bad,Low,Buford
+1635,Populated ,69,90,8772,No,Good,High,Buford
+1636,Unpopulated,39,60,3385,No,Bad,Low,Buford
+1637,Populated,41,552,9992,No,Good,Low,Philadelphia
+1638,Unpopulated,58,567,1891,No,Bad,Low,Buford
+1639,Populated,80,87,508,No,Bad,High,Philadelphia
+1640,Populated ,69,580,280,No,Good ,High,Buford
+1641,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+1642,Populated ,51,223,559,No,Good,Low,Buford
+1643,Populated ,64,415,9551,yes,Good,Low,Buford
+1644,Unpopulated,30,148,7248,No,Good,Low,Buford
+1645,Populated ,36,429,5972,No,Good,Low,Buford
+1646,Unpopulated,56,64,9202,No,Bad,Low,Buford
+1647,Populated ,55,30,3894,No,Good,Low,Buford
+1648,Unpopulated,60,432,2793,No,Bad,Low,Buford
+1649,Populated,77,205,4113,No,Good,High,Philadelphia
+1650,Unpopulated,41,486,7861,No,Bad,Low,Buford
+1651,Populated,66,117,4364,No,Bad,Low,Philadelphia
+1652,Populated ,58,631,5966,No,Good ,Low,Buford
+1653,Unpopulated,60,607,5097,No,Bad,Low,Buford
+1654,Populated ,54,456,5161,Yes,Good,Low,Buford
+1655,Populated ,49,420,6938,No,Good,Low,Buford
+1656,Unpopulated,38,188,8417,yes,Good,Low,Buford
+1657,Populated ,60,679,9374,No,Good,Low,Buford
+1658,Unpopulated,38,159,737,No,Bad,Low,Buford
+1659,Populated ,77,311,4343,No,Good,High,Buford
+1660,Unpopulated,63,43,8312,No,Bad,Low,Buford
+1661,Populated,55,661,7247,No,Good,Low,Philadelphia
+1662,Unpopulated,65,348,1437,No,Bad,Low,Buford
+1663,Populated,64,414,4090,No,Bad,Low,Philadelphia
+1664,Populated ,33,334,6227,No,Good ,Low,Buford
+1665,Unpopulated,75,259,3924,No,Bad,High,Buford
+1666,Populated ,51,426,7409,No,Good,Low,Buford
+1667,Populated ,34,316,3769,Yes,Good,Low,Buford
+1668,Unpopulated,31,175,1688,No,Good,Low,Buford
+1669,Populated ,53,184,1993,yes,Good,Low,Buford
+1670,Unpopulated,51,641,1414,No,Bad,Low,Buford
+1671,Populated ,40,11,4643,No,Good,Low,Buford
+1672,Unpopulated,78,600,2409,No,Bad,High,Buford
+1673,Populated,62,51,8729,No,Good,Low,Philadelphia
+1674,Unpopulated,30,187,8174,No,Bad,Low,Buford
+1675,Populated,75,342,3712,No,Bad,High,Philadelphia
+1676,Populated ,80,43,693,No,Good ,High,Buford
+1677,Unpopulated,30,567,6485,No,Bad,Low,Buford
+1678,Populated ,33,400,9471,No,Good,Low,Buford
+1679,Populated ,66,425,258,No,Good,Low,Buford
+1680,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+1681,Populated ,54,355,6290,No,Good,Low,Buford
+1682,Unpopulated,36,44,291,yes,Bad,Low,Buford
+1683,Populated ,37,484,6271,No,Good,Low,Buford
+1684,Unpopulated,65,286,8617,No,Bad,Low,Buford
+1685,Populated,65,519,8192,No,Good,Low,Philadelphia
+1686,Unpopulated,35,664,38,No,Bad,Low,Buford
+1687,Populated,67,488,10,No,Bad,Low,Philadelphia
+1688,Populated ,57,639,4535,No,Good ,Low,Buford
+1689,Unpopulated,56,521,1780,No,Bad,Low,Buford
+1690,Populated ,30,532,1284,No,Good,Low,Buford
+1691,Populated ,56,678,5472,No,Good,Low,Buford
+1692,Unpopulated,80,680,8662,No,Good,High,Buford
+1693,Populated ,75,115,3812,Yes,Good,High,Buford
+1694,Unpopulated,76,265,3652,No,Bad,High,Buford
+1695,Populated ,53,153,4951,yes,Good,Low,Buford
+1696,Unpopulated,69,364,6825,No,Bad,High,Buford
+1697,Populated,41,494,2745,No,Good,Low,Philadelphia
+1698,Unpopulated,53,354,7427,No,Bad,Low,Buford
+1699,Populated,79,177,4568,No,Bad,High,Philadelphia
+1700,Populated ,57,452,3814,No,Good ,Low,Buford
+1701,Unpopulated,69,14,7930,No,Bad,High,Buford
+1702,Populated ,31,513,9296,No,Good,Low,Buford
+1703,Populated ,47,637,8700,No,Good,Low,Buford
+1704,Unpopulated,43,52,5758,No,Good,Low,Buford
+1705,Populated ,72,686,6182,No,Good,High,Buford
+1706,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+1707,Populated ,41,62,9997,No,Good,Low,Buford
+1708,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+1709,Populated,48,198,6681,No,Good,Low,Philadelphia
+1710,Unpopulated,37,244,7702,No,Bad,Low,Buford
+1711,Populated,36,271,1027,No,Bad,Low,Philadelphia
+1712,Populated ,49,225,3615,No,Good ,Low,Buford
+1713,Unpopulated,47,476,8085,No,Bad,Low,Buford
+1714,Populated ,38,241,9918,No,Good,Low,Buford
+1715,Populated ,75,315,2719,No,Good,High,Buford
+1716,Unpopulated,60,255,8848,No,Good,Low,Buford
+1717,Populated ,63,596,1703,No,Good,Low,Buford
+1718,Unpopulated,71,254,9947,No,Bad,High,Buford
+1719,Populated ,64,174,4919,Yes,Good,Low,Buford
+1720,Unpopulated,73,547,6754,No,Bad,High,Buford
+1721,Populated,46,524,3896,yes,Good,Low,Philadelphia
+1722,Unpopulated,63,164,631,No,Bad,Low,Buford
+1723,Populated,43,175,3645,No,Bad,Low,Philadelphia
+1724,Populated ,51,149,5179,No,Good ,Low,Buford
+1725,Unpopulated,63,227,2516,No,Bad,Low,Buford
+1726,Populated ,69,63,6807,No,Good,High,Buford
+1727,Populated ,46,675,8178,No,Good,Low,Buford
+1728,Unpopulated,70,194,2932,No,Good,High,Buford
+1729,Populated ,62,520,8144,No,Good,Low,Buford
+1730,Unpopulated,68,494,2588,No,Bad,Low,Buford
+1731,Populated ,42,134,739,No,Good,Low,Buford
+1732,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+1733,Populated,80,674,8501,No,Good,High,Philadelphia
+1734,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+1735,Populated,33,698,4598,No,Bad,Low,Philadelphia
+1736,Populated ,80,152,8178,No,Good ,High,Buford
+1737,Unpopulated,32,145,8296,No,Bad,Low,Buford
+1738,Populated ,31,465,5759,No,Good,Low,Buford
+1739,Populated ,68,16,1085,No,Good,Low,Buford
+1740,Unpopulated,75,543,4713,No,Good,High,Buford
+1741,Populated ,44,528,5697,No,Good,Low,Buford
+1742,Unpopulated,73,608,1601,No,Bad,High,Buford
+1743,Populated ,42,269,545,No,Good,Low,Buford
+1744,Unpopulated,50,697,2428,No,Bad,Low,Buford
+1745,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+1746,Unpopulated,36,450,779,No,Bad,Low,Buford
+1747,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+1748,Populated ,80,691,4146,No,Good ,High,Buford
+1749,Unpopulated,38,352,5413,No,Bad,Low,Buford
+1750,Populated ,76,306,7996,No,Good,High,Buford
+1751,Populated ,33,636,6516,No,Good,Low,Buford
+1752,Unpopulated,31,552,2662,No,Good,Low,Buford
+1753,Populated ,54,611,4707,No,Good,Low,Buford
+1754,Unpopulated,43,224,8138,No,Bad,Low,Buford
+1755,Populated ,36,389,4622,No,Good,Low,Buford
+1756,Unpopulated,64,671,9158,No,Bad,Low,Buford
+1757,Populated,34,36,1859,No,Good,Low,Philadelphia
+1758,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+1759,Populated,55,485,667,No,Bad,Low,Philadelphia
+1760,Populated ,77,627,5985,yes,Good ,High,Buford
+1761,Unpopulated,41,579,9072,No,Bad,Low,Buford
+1762,Populated ,74,506,1158,No,Good,High,Buford
+1763,Populated ,48,557,828,No,Good,Low,Buford
+1764,Unpopulated,69,185,5532,No,Good,High,Buford
+1765,Populated ,49,333,6343,No,Good,Low,Buford
+1766,Unpopulated,34,147,9613,No,Bad,Low,Buford
+1767,Populated ,42,680,2945,No,Good,Low,Buford
+1768,Unpopulated,71,72,4847,No,Bad,High,Buford
+1769,Populated,36,71,1037,No,Good,Low,Philadelphia
+1770,Unpopulated,54,338,900,No,Bad,Low,Buford
+1771,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+1772,Populated ,46,358,340,No,Good ,Low,Buford
+1773,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+1774,Populated ,65,236,8885,No,Good,Low,Buford
+1775,Populated ,68,263,8442,No,Good,Low,Buford
+1776,Unpopulated,57,61,2372,No,Good,Low,Buford
+1777,Populated ,57,674,3302,No,Good,Low,Buford
+1778,Unpopulated,49,559,8583,No,Bad,Low,Buford
+1779,Populated ,64,260,7887,No,Good,Low,Buford
+1780,Unpopulated,44,315,8349,No,Bad,Low,Buford
+1781,Populated,78,267,9813,No,Good,High,Philadelphia
+1782,Unpopulated,58,57,1342,No,Bad,Low,Buford
+1783,Populated,79,520,6497,No,Bad,High,Philadelphia
+1784,Populated ,73,577,9347,Yes,Good ,High,Buford
+1785,Unpopulated,33,484,7781,No,Bad,Low,Buford
+1786,Populated ,40,174,7715,yes,Good,Low,Buford
+1787,Populated ,61,8,6409,No,Good,Low,Buford
+1788,Unpopulated,41,600,5072,No,Good,Low,Buford
+1789,Populated ,53,60,3393,No,Good,Low,Buford
+1790,Unpopulated,44,548,6087,No,Bad,Low,Buford
+1791,Populated ,70,427,3681,No,Good ,High,Buford
+1792,Unpopulated,31,515,5233,No,Bad,Low,Buford
+1793,Populated ,58,565,2099,No,Good,Low,Buford
+1794,Populated ,68,340,8626,No,Good,Low,Buford
+1795,Unpopulated,67,210,6387,No,Good,Low,Buford
+1796,Populated ,35,284,2126,No,Good,Low,Buford
+1797,Unpopulated,75,98,211,No,Bad,High,Buford
+1798,Populated ,64,237,9295,No,Good,Low,Buford
+1799,Unpopulated,37,218,9194,No,Bad,Low,Buford
+1800,Populated,70,650,6063,No,Good,High,Philadelphia
+1801,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+1802,Populated,80,171,7722,No,Bad,High,Philadelphia
+1803,Populated ,36,324,6365,yes,Good ,Low,Buford
+1804,Unpopulated,80,387,2526,No,Bad,High,Buford
+1805,Populated ,62,662,7849,No,Good,Low,Buford
+1806,Populated ,39,589,5360,No,Good,Low,Buford
+1807,Unpopulated,53,567,8058,No,Good,Low,Buford
+1808,Populated ,32,574,37,No,Good,Low,Buford
+1809,Unpopulated,42,84,3774,No,Bad,Low,Buford
+1810,Populated ,31,698,5842,No,Good,Low,Buford
+1811,Unpopulated,57,689,8692,No,Bad,Low,Buford
+1812,Populated,49,608,4827,No,Good,Low,Philadelphia
+1813,Unpopulated,38,512,7858,No,Bad,Low,Buford
+1814,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+1815,Populated ,30,499,5267,No,Good ,Low,Buford
+1816,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+1817,Populated ,57,699,7789,No,Good,Low,Buford
+1818,Populated ,44,345,9475,No,Good,Low,Buford
+1819,Unpopulated,33,637,3895,No,Good,Low,Buford
+1820,Populated ,35,332,6512,No,Good,Low,Buford
+1821,Unpopulated,33,60,7218,No,Bad,Low,Buford
+1822,Populated ,50,107,9856,No,Good,Low,Buford
+1823,Unpopulated,73,359,1346,No,Bad,High,Buford
+1824,Populated,63,516,751,No,Good,Low,Philadelphia
+1825,Unpopulated,36,443,7647,No,Bad,Low,Buford
+1826,Populated,67,594,9833,No,Bad,Low,Philadelphia
+1827,Populated ,45,620,7898,Yes,Good ,Low,Buford
+1828,Unpopulated,33,10,5897,No,Bad,Low,Buford
+1829,Populated ,52,38,5437,yes,Good,Low,Buford
+1830,Populated ,43,310,1038,No,Good,Low,Buford
+1831,Unpopulated,42,526,3572,No,Good,Low,Buford
+1832,Populated ,79,195,3859,No,Good,High,Buford
+1833,Unpopulated,54,34,8049,No,Bad,Low,Buford
+1834,Populated ,69,90,8772,No,Good,High,Buford
+1835,Unpopulated,39,60,3385,No,Bad,Low,Buford
+1836,Populated,41,552,9992,No,Good,Low,Philadelphia
+1837,Unpopulated,58,567,1891,No,Bad,Low,Buford
+1838,Populated,80,87,508,No,Bad,High,Philadelphia
+1839,Populated ,69,580,280,No,Good ,High,Buford
+1840,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+1841,Populated ,51,223,559,No,Good,Low,Buford
+1842,Populated ,64,415,9551,yes,Good,Low,Buford
+1843,Unpopulated,30,148,7248,No,Good,Low,Buford
+1844,Populated ,36,429,5972,No,Good,Low,Buford
+1845,Unpopulated,56,64,9202,No,Bad,Low,Buford
+1846,Populated ,55,30,3894,No,Good,Low,Buford
+1847,Unpopulated,60,432,2793,No,Bad,Low,Buford
+1848,Populated,77,205,4113,No,Good,High,Philadelphia
+1849,Unpopulated,41,486,7861,No,Bad,Low,Buford
+1850,Populated,66,117,4364,No,Bad,Low,Philadelphia
+1851,Populated ,58,631,5966,No,Good ,Low,Buford
+1852,Unpopulated,60,607,5097,No,Bad,Low,Buford
+1853,Populated ,54,456,5161,Yes,Good,Low,Buford
+1854,Populated ,49,420,6938,No,Good,Low,Buford
+1855,Unpopulated,38,188,8417,yes,Good,Low,Buford
+1856,Populated ,60,679,9374,No,Good,Low,Buford
+1857,Unpopulated,38,159,737,No,Bad,Low,Buford
+1858,Populated ,77,311,4343,No,Good,High,Buford
+1859,Unpopulated,63,43,8312,No,Bad,Low,Buford
+1860,Populated,55,661,7247,No,Good,Low,Philadelphia
+1861,Unpopulated,65,348,1437,No,Bad,Low,Buford
+1862,Populated,64,414,4090,No,Bad,Low,Philadelphia
+1863,Populated ,33,334,6227,No,Good ,Low,Buford
+1864,Unpopulated,75,259,3924,No,Bad,High,Buford
+1865,Populated ,51,426,7409,No,Good,Low,Buford
+1866,Populated ,34,316,3769,Yes,Good,Low,Buford
+1867,Unpopulated,31,175,1688,No,Good,Low,Buford
+1868,Populated ,53,184,1993,yes,Good,Low,Buford
+1869,Unpopulated,51,641,1414,No,Bad,Low,Buford
+1870,Populated ,40,11,4643,No,Good,Low,Buford
+1871,Unpopulated,78,600,2409,No,Bad,High,Buford
+1872,Populated,62,51,8729,No,Good,Low,Philadelphia
+1873,Unpopulated,30,187,8174,No,Bad,Low,Buford
+1874,Populated,75,342,3712,No,Bad,High,Philadelphia
+1875,Populated ,80,43,693,No,Good ,High,Buford
+1876,Unpopulated,30,567,6485,No,Bad,Low,Buford
+1877,Populated ,33,400,9471,No,Good,Low,Buford
+1878,Populated ,66,425,258,No,Good,Low,Buford
+1879,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+1880,Populated ,54,355,6290,No,Good,Low,Buford
+1881,Unpopulated,36,44,291,yes,Bad,Low,Buford
+1882,Populated ,37,484,6271,No,Good,Low,Buford
+1883,Unpopulated,65,286,8617,No,Bad,Low,Buford
+1884,Populated,65,519,8192,No,Good,Low,Philadelphia
+1885,Unpopulated,35,664,38,No,Bad,Low,Buford
+1886,Populated,67,488,10,No,Bad,Low,Philadelphia
+1887,Populated ,57,639,4535,No,Good ,Low,Buford
+1888,Unpopulated,56,521,1780,No,Bad,Low,Buford
+1889,Populated ,30,532,1284,No,Good,Low,Buford
+1890,Populated ,56,678,5472,No,Good,Low,Buford
+1891,Unpopulated,80,680,8662,No,Good,High,Buford
+1892,Populated ,75,115,3812,Yes,Good,High,Buford
+1893,Unpopulated,76,265,3652,No,Bad,High,Buford
+1894,Populated ,53,153,4951,yes,Good,Low,Buford
+1895,Unpopulated,69,364,6825,No,Bad,High,Buford
+1896,Populated,41,494,2745,No,Good,Low,Philadelphia
+1897,Unpopulated,53,354,7427,No,Bad,Low,Buford
+1898,Populated,79,177,4568,No,Bad,High,Philadelphia
+1899,Populated ,57,452,3814,No,Good ,Low,Buford
+1900,Unpopulated,69,14,7930,No,Bad,High,Buford
+1901,Populated ,31,513,9296,No,Good,Low,Buford
+1902,Populated ,47,637,8700,No,Good,Low,Buford
+1903,Unpopulated,43,52,5758,No,Good,Low,Buford
+1904,Populated ,72,686,6182,No,Good,High,Buford
+1905,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+1906,Populated ,41,62,9997,No,Good,Low,Buford
+1907,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+1908,Populated,48,198,6681,No,Good,Low,Philadelphia
+1909,Unpopulated,37,244,7702,No,Bad,Low,Buford
+1910,Populated,36,271,1027,No,Bad,Low,Philadelphia
+1911,Populated ,49,225,3615,No,Good ,Low,Buford
+1912,Unpopulated,47,476,8085,No,Bad,Low,Buford
+1913,Populated ,38,241,9918,No,Good,Low,Buford
+1914,Populated ,75,315,2719,No,Good,High,Buford
+1915,Unpopulated,60,255,8848,No,Good,Low,Buford
+1916,Populated ,63,596,1703,No,Good,Low,Buford
+1917,Unpopulated,71,254,9947,No,Bad,High,Buford
+1918,Populated ,64,174,4919,Yes,Good,Low,Buford
+1919,Unpopulated,73,547,6754,No,Bad,High,Buford
+1920,Populated,46,524,3896,yes,Good,Low,Philadelphia
+1921,Unpopulated,63,164,631,No,Bad,Low,Buford
+1922,Populated,43,175,3645,No,Bad,Low,Philadelphia
+1923,Populated ,51,149,5179,No,Good ,Low,Buford
+1924,Unpopulated,63,227,2516,No,Bad,Low,Buford
+1925,Populated ,69,63,6807,No,Good,High,Buford
+1926,Populated ,46,675,8178,No,Good,Low,Buford
+1927,Unpopulated,70,194,2932,No,Good,High,Buford
+1928,Populated ,62,520,8144,No,Good,Low,Buford
+1929,Unpopulated,68,494,2588,No,Bad,Low,Buford
+1930,Populated ,42,134,739,No,Good,Low,Buford
+1931,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+1932,Populated,80,674,8501,No,Good,High,Philadelphia
+1933,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+1934,Populated,33,698,4598,No,Bad,Low,Philadelphia
+1935,Populated ,80,152,8178,No,Good ,High,Buford
+1936,Unpopulated,32,145,8296,No,Bad,Low,Buford
+1937,Populated ,31,465,5759,No,Good,Low,Buford
+1938,Populated ,68,16,1085,No,Good,Low,Buford
+1939,Unpopulated,75,543,4713,No,Good,High,Buford
+1940,Populated ,44,528,5697,No,Good,Low,Buford
+1941,Unpopulated,73,608,1601,No,Bad,High,Buford
+1942,Populated ,42,269,545,No,Good,Low,Buford
+1943,Unpopulated,50,697,2428,No,Bad,Low,Buford
+1944,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+1945,Unpopulated,36,450,779,No,Bad,Low,Buford
+1946,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+1947,Populated ,80,691,4146,No,Good ,High,Buford
+1948,Unpopulated,38,352,5413,No,Bad,Low,Buford
+1949,Populated ,76,306,7996,No,Good,High,Buford
+1950,Populated ,33,636,6516,No,Good,Low,Buford
+1951,Unpopulated,31,552,2662,No,Good,Low,Buford
+1952,Populated ,54,611,4707,No,Good,Low,Buford
+1953,Unpopulated,43,224,8138,No,Bad,Low,Buford
+1954,Populated ,36,389,4622,No,Good,Low,Buford
+1955,Unpopulated,64,671,9158,No,Bad,Low,Buford
+1956,Populated,34,36,1859,No,Good,Low,Philadelphia
+1957,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+1958,Populated,55,485,667,No,Bad,Low,Philadelphia
+1959,Populated ,77,627,5985,yes,Good ,High,Buford
+1960,Unpopulated,41,579,9072,No,Bad,Low,Buford
+1961,Populated ,74,506,1158,No,Good,High,Buford
+1962,Populated ,48,557,828,No,Good,Low,Buford
+1963,Unpopulated,69,185,5532,No,Good,High,Buford
+1964,Populated ,49,333,6343,No,Good,Low,Buford
+1965,Unpopulated,34,147,9613,No,Bad,Low,Buford
+1966,Populated ,42,680,2945,No,Good,Low,Buford
+1967,Unpopulated,71,72,4847,No,Bad,High,Buford
+1968,Populated,36,71,1037,No,Good,Low,Philadelphia
+1969,Unpopulated,54,338,900,No,Bad,Low,Buford
+1970,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+1971,Populated ,46,358,340,No,Good ,Low,Buford
+1972,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+1973,Populated ,65,236,8885,No,Good,Low,Buford
+1974,Populated ,68,263,8442,No,Good,Low,Buford
+1975,Unpopulated,57,61,2372,No,Good,Low,Buford
+1976,Populated ,57,674,3302,No,Good,Low,Buford
+1977,Unpopulated,49,559,8583,No,Bad,Low,Buford
+1978,Populated ,64,260,7887,No,Good,Low,Buford
+1979,Unpopulated,44,315,8349,No,Bad,Low,Buford
+1980,Populated,78,267,9813,No,Good,High,Philadelphia
+1981,Unpopulated,58,57,1342,No,Bad,Low,Buford
+1982,Populated,79,520,6497,No,Bad,High,Philadelphia
+1983,Populated ,73,577,9347,Yes,Good ,High,Buford
+1984,Unpopulated,33,484,7781,No,Bad,Low,Buford
+1985,Populated ,40,174,7715,yes,Good,Low,Buford
+1986,Populated ,61,8,6409,No,Good,Low,Buford
+1987,Unpopulated,41,600,5072,No,Good,Low,Buford
+1988,Populated ,53,60,3393,No,Good,Low,Buford
+1989,Unpopulated,44,548,6087,No,Bad,Low,Buford
+1990,Populated ,70,427,3681,No,Good ,High,Buford
+1991,Unpopulated,31,515,5233,No,Bad,Low,Buford
+1992,Populated ,58,565,2099,No,Good,Low,Buford
+1993,Populated ,68,340,8626,No,Good,Low,Buford
+1994,Unpopulated,67,210,6387,No,Good,Low,Buford
+1995,Populated ,35,284,2126,No,Good,Low,Buford
+1996,Unpopulated,75,98,211,No,Bad,High,Buford
+1997,Populated ,64,237,9295,No,Good,Low,Buford
+1998,Unpopulated,37,218,9194,No,Bad,Low,Buford
+1999,Populated,70,650,6063,No,Good,High,Philadelphia
+2000,Unpopulated,58,198,615,Yes,Bad,Low,Buford
+2001,Populated,80,171,7722,No,Bad,High,Philadelphia
+2002,Populated ,36,324,6365,yes,Good ,Low,Buford
+2003,Unpopulated,80,387,2526,No,Bad,High,Buford
+2004,Populated ,62,662,7849,No,Good,Low,Buford
+2005,Populated ,39,589,5360,No,Good,Low,Buford
+2006,Unpopulated,53,567,8058,No,Good,Low,Buford
+2007,Populated ,32,574,37,No,Good,Low,Buford
+2008,Unpopulated,42,84,3774,No,Bad,Low,Buford
+2009,Populated ,31,698,5842,No,Good,Low,Buford
+2010,Unpopulated,57,689,8692,No,Bad,Low,Buford
+2011,Populated,49,608,4827,No,Good,Low,Philadelphia
+2012,Unpopulated,38,512,7858,No,Bad,Low,Buford
+2013,Populated,67,18,23,Yes,Bad,Low,Philadelphia
+2014,Populated ,30,499,5267,No,Good ,Low,Buford
+2015,Unpopulated,30,410,6614,yes,Bad,Low,Buford
+2016,Populated ,57,699,7789,No,Good,Low,Buford
+2017,Populated ,44,345,9475,No,Good,Low,Buford
+2018,Unpopulated,33,637,3895,No,Good,Low,Buford
+2019,Populated ,35,332,6512,No,Good,Low,Buford
+2020,Unpopulated,33,60,7218,No,Bad,Low,Buford
+2021,Populated ,50,107,9856,No,Good,Low,Buford
+2022,Unpopulated,73,359,1346,No,Bad,High,Buford
+2023,Populated,63,516,751,No,Good,Low,Philadelphia
+2024,Unpopulated,36,443,7647,No,Bad,Low,Buford
+2025,Populated,67,594,9833,No,Bad,Low,Philadelphia
+2026,Populated ,45,620,7898,Yes,Good ,Low,Buford
+2027,Unpopulated,33,10,5897,No,Bad,Low,Buford
+2028,Populated ,52,38,5437,yes,Good,Low,Buford
+2029,Populated ,43,310,1038,No,Good,Low,Buford
+2030,Unpopulated,42,526,3572,No,Good,Low,Buford
+2031,Populated ,79,195,3859,No,Good,High,Buford
+2032,Unpopulated,54,34,8049,No,Bad,Low,Buford
+2033,Populated ,69,90,8772,No,Good,High,Buford
+2034,Unpopulated,39,60,3385,No,Bad,Low,Buford
+2035,Populated,41,552,9992,No,Good,Low,Philadelphia
+2036,Unpopulated,58,567,1891,No,Bad,Low,Buford
+2037,Populated,80,87,508,No,Bad,High,Philadelphia
+2038,Populated ,69,580,280,No,Good ,High,Buford
+2039,Unpopulated,38,580,6810,Yes,Bad,Low,Buford
+2040,Populated ,51,223,559,No,Good,Low,Buford
+2041,Populated ,64,415,9551,yes,Good,Low,Buford
+2042,Unpopulated,30,148,7248,No,Good,Low,Buford
+2043,Populated ,36,429,5972,No,Good,Low,Buford
+2044,Unpopulated,56,64,9202,No,Bad,Low,Buford
+2045,Populated ,55,30,3894,No,Good,Low,Buford
+2046,Unpopulated,60,432,2793,No,Bad,Low,Buford
+2047,Populated,77,205,4113,No,Good,High,Philadelphia
+2048,Unpopulated,41,486,7861,No,Bad,Low,Buford
+2049,Populated,66,117,4364,No,Bad,Low,Philadelphia
+2050,Populated ,58,631,5966,No,Good ,Low,Buford
+2051,Unpopulated,60,607,5097,No,Bad,Low,Buford
+2052,Populated ,54,456,5161,Yes,Good,Low,Buford
+2053,Populated ,49,420,6938,No,Good,Low,Buford
+2054,Unpopulated,38,188,8417,yes,Good,Low,Buford
+2055,Populated ,60,679,9374,No,Good,Low,Buford
+2056,Unpopulated,38,159,737,No,Bad,Low,Buford
+2057,Populated ,77,311,4343,No,Good,High,Buford
+2058,Unpopulated,63,43,8312,No,Bad,Low,Buford
+2059,Populated,55,661,7247,No,Good,Low,Philadelphia
+2060,Unpopulated,65,348,1437,No,Bad,Low,Buford
+2061,Populated,64,414,4090,No,Bad,Low,Philadelphia
+2062,Populated ,33,334,6227,No,Good ,Low,Buford
+2063,Unpopulated,75,259,3924,No,Bad,High,Buford
+2064,Populated ,51,426,7409,No,Good,Low,Buford
+2065,Populated ,34,316,3769,Yes,Good,Low,Buford
+2066,Unpopulated,31,175,1688,No,Good,Low,Buford
+2067,Populated ,53,184,1993,yes,Good,Low,Buford
+2068,Unpopulated,51,641,1414,No,Bad,Low,Buford
+2069,Populated ,40,11,4643,No,Good,Low,Buford
+2070,Unpopulated,78,600,2409,No,Bad,High,Buford
+2071,Populated,62,51,8729,No,Good,Low,Philadelphia
+2072,Unpopulated,30,187,8174,No,Bad,Low,Buford
+2073,Populated,75,342,3712,No,Bad,High,Philadelphia
+2074,Populated ,80,43,693,No,Good ,High,Buford
+2075,Unpopulated,30,567,6485,No,Bad,Low,Buford
+2076,Populated ,33,400,9471,No,Good,Low,Buford
+2077,Populated ,66,425,258,No,Good,Low,Buford
+2078,Unpopulated,50,430,7878,Yes,Good,Low,Buford
+2079,Populated ,54,355,6290,No,Good,Low,Buford
+2080,Unpopulated,36,44,291,yes,Bad,Low,Buford
+2081,Populated ,37,484,6271,No,Good,Low,Buford
+2082,Unpopulated,65,286,8617,No,Bad,Low,Buford
+2083,Populated,65,519,8192,No,Good,Low,Philadelphia
+2084,Unpopulated,35,664,38,No,Bad,Low,Buford
+2085,Populated,67,488,10,No,Bad,Low,Philadelphia
+2086,Populated ,57,639,4535,No,Good ,Low,Buford
+2087,Unpopulated,56,521,1780,No,Bad,Low,Buford
+2088,Populated ,30,532,1284,No,Good,Low,Buford
+2089,Populated ,56,678,5472,No,Good,Low,Buford
+2090,Unpopulated,80,680,8662,No,Good,High,Buford
+2091,Populated ,75,115,3812,Yes,Good,High,Buford
+2092,Unpopulated,76,265,3652,No,Bad,High,Buford
+2093,Populated ,53,153,4951,yes,Good,Low,Buford
+2094,Unpopulated,69,364,6825,No,Bad,High,Buford
+2095,Populated,41,494,2745,No,Good,Low,Philadelphia
+2096,Unpopulated,53,354,7427,No,Bad,Low,Buford
+2097,Populated,79,177,4568,No,Bad,High,Philadelphia
+2098,Populated ,57,452,3814,No,Good ,Low,Buford
+2099,Unpopulated,69,14,7930,No,Bad,High,Buford
+2100,Populated ,31,513,9296,No,Good,Low,Buford
+2101,Populated ,47,637,8700,No,Good,Low,Buford
+2102,Unpopulated,43,52,5758,No,Good,Low,Buford
+2103,Populated ,72,686,6182,No,Good,High,Buford
+2104,Unpopulated,74,377,5324,Yes,Bad,High,Buford
+2105,Populated ,41,62,9997,No,Good,Low,Buford
+2106,Unpopulated,68,536,3685,yes,Bad,Low,Buford
+2107,Populated,48,198,6681,No,Good,Low,Philadelphia
+2108,Unpopulated,37,244,7702,No,Bad,Low,Buford
+2109,Populated,36,271,1027,No,Bad,Low,Philadelphia
+2110,Populated ,49,225,3615,No,Good ,Low,Buford
+2111,Unpopulated,47,476,8085,No,Bad,Low,Buford
+2112,Populated ,38,241,9918,No,Good,Low,Buford
+2113,Populated ,75,315,2719,No,Good,High,Buford
+2114,Unpopulated,60,255,8848,No,Good,Low,Buford
+2115,Populated ,63,596,1703,No,Good,Low,Buford
+2116,Unpopulated,71,254,9947,No,Bad,High,Buford
+2117,Populated ,64,174,4919,Yes,Good,Low,Buford
+2118,Unpopulated,73,547,6754,No,Bad,High,Buford
+2119,Populated,46,524,3896,yes,Good,Low,Philadelphia
+2120,Unpopulated,63,164,631,No,Bad,Low,Buford
+2121,Populated,43,175,3645,No,Bad,Low,Philadelphia
+2122,Populated ,51,149,5179,No,Good ,Low,Buford
+2123,Unpopulated,63,227,2516,No,Bad,Low,Buford
+2124,Populated ,69,63,6807,No,Good,High,Buford
+2125,Populated ,46,675,8178,No,Good,Low,Buford
+2126,Unpopulated,70,194,2932,No,Good,High,Buford
+2127,Populated ,62,520,8144,No,Good,Low,Buford
+2128,Unpopulated,68,494,2588,No,Bad,Low,Buford
+2129,Populated ,42,134,739,No,Good,Low,Buford
+2130,Unpopulated,31,411,6902,Yes,Bad,Low,Buford
+2131,Populated,80,674,8501,No,Good,High,Philadelphia
+2132,Unpopulated,59,143,5416,yes,Bad,Low,Buford
+2133,Populated,33,698,4598,No,Bad,Low,Philadelphia
+2134,Populated ,80,152,8178,No,Good ,High,Buford
+2135,Unpopulated,32,145,8296,No,Bad,Low,Buford
+2136,Populated ,31,465,5759,No,Good,Low,Buford
+2137,Populated ,68,16,1085,No,Good,Low,Buford
+2138,Unpopulated,75,543,4713,No,Good,High,Buford
+2139,Populated ,44,528,5697,No,Good,Low,Buford
+2140,Unpopulated,73,608,1601,No,Bad,High,Buford
+2141,Populated ,42,269,545,No,Good,Low,Buford
+2142,Unpopulated,50,697,2428,No,Bad,Low,Buford
+2143,Populated,48,63,1878,Yes,Good,Low,Philadelphia
+2144,Unpopulated,36,450,779,No,Bad,Low,Buford
+2145,Populated,59,521,7121,yes,Bad,Low,Philadelphia
+2146,Populated ,80,691,4146,No,Good ,High,Buford
+2147,Unpopulated,38,352,5413,No,Bad,Low,Buford
+2148,Populated ,76,306,7996,No,Good,High,Buford
+2149,Populated ,33,636,6516,No,Good,Low,Buford
+2150,Unpopulated,31,552,2662,No,Good,Low,Buford
+2151,Populated ,54,611,4707,No,Good,Low,Buford
+2152,Unpopulated,43,224,8138,No,Bad,Low,Buford
+2153,Populated ,36,389,4622,No,Good,Low,Buford
+2154,Unpopulated,64,671,9158,No,Bad,Low,Buford
+2155,Populated,34,36,1859,No,Good,Low,Philadelphia
+2156,Unpopulated,35,325,6901,Yes,Bad,Low,Buford
+2157,Populated,55,485,667,No,Bad,Low,Philadelphia
+2158,Populated ,77,627,5985,yes,Good ,High,Buford
+2159,Unpopulated,41,579,9072,No,Bad,Low,Buford
+2160,Populated ,74,506,1158,No,Good,High,Buford
+2161,Populated ,48,557,828,No,Good,Low,Buford
+2162,Unpopulated,69,185,5532,No,Good,High,Buford
+2163,Populated ,49,333,6343,No,Good,Low,Buford
+2164,Unpopulated,34,147,9613,No,Bad,Low,Buford
+2165,Populated ,42,680,2945,No,Good,Low,Buford
+2166,Unpopulated,71,72,4847,No,Bad,High,Buford
+2167,Populated,36,71,1037,No,Good,Low,Philadelphia
+2168,Unpopulated,54,338,900,No,Bad,Low,Buford
+2169,Populated,80,90,2282,Yes,Bad,High,Philadelphia
+2170,Populated ,46,358,340,No,Good ,Low,Buford
+2171,Unpopulated,36,371,7270,yes,Bad,Low,Buford
+2172,Populated ,65,236,8885,No,Good,Low,Buford
+2173,Populated ,68,263,8442,No,Good,Low,Buford
+2174,Unpopulated,57,61,2372,No,Good,Low,Buford
+2175,Populated ,57,674,3302,No,Good,Low,Buford
+2176,Unpopulated,49,559,8583,No,Bad,Low,Buford
+2177,Populated ,64,260,7887,No,Good,Low,Buford
+2178,Unpopulated,44,315,8349,No,Bad,Low,Buford
+2179,Populated,78,267,9813,No,Good,High,Philadelphia
+2180,Unpopulated,58,57,1342,No,Bad,Low,Buford
+2181,Populated,79,520,6497,No,Bad,High,Philadelphia
+2182,Populated ,73,577,9347,Yes,Good ,High,Buford
+2183,Unpopulated,33,484,7781,No,Bad,Low,Buford
+2184,Populated ,40,174,7715,yes,Good,Low,Buford
+2185,Populated ,61,8,6409,No,Good,Low,Buford
+2186,Unpopulated,41,600,5072,No,Good,Low,Buford
+2187,Populated ,53,60,3393,No,Good,Low,Buford
+2188,Unpopulated,44,548,6087,No,Bad,Low,Buford
